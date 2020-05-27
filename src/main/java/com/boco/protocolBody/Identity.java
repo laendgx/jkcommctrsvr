@@ -17,13 +17,9 @@ public class Identity implements Serializable {
      */
     private String targetId;
     /**
-     * 设备id
-     */
-    private String devId;
-    /**
      * 返消息发送时间
      */
-    private String time;
+    private String createTime;
 
     public String getSourceId() {
         return sourceId;
@@ -41,19 +37,12 @@ public class Identity implements Serializable {
         this.targetId = targetId;
     }
 
-    public String getDevId() {
-        return devId;
+
+    public String getCreateTime() {
+        return createTime;
     }
 
-    public void setDevId(String devId) {
-        this.devId = devId;
-    }
-
-    public String getTime() {
-        return time;
-    }
-
-    public void setTime(String time) {
-        this.time = time;
+    public void setCreateTime(String createTime) {
+        this.createTime = createTime;
     }
 }

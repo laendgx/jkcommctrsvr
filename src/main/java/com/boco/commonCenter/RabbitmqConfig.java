@@ -92,7 +92,7 @@ public class RabbitmqConfig {
 
     @Bean
     public Queue DirectQueue() {
-        return new Queue(env.getProperty("devsvrQueueName_1"),true);  //true 是否持久
+        return new Queue(env.getProperty("collInfoQueueName"),true);  //true 是否持久
     }
 
     //Direct交换机 起名：exchangeName
@@ -104,7 +104,7 @@ public class RabbitmqConfig {
     //绑定  将队列和交换机绑定, 并设置用于匹配键：devsvrQueueKey_1
     @Bean
     Binding bindingDirect() {
-        return BindingBuilder.bind(DirectQueue()).to(DirectExchange()).with(env.getProperty("devsvrQueueKey_1"));
+        return BindingBuilder.bind(DirectQueue()).to(DirectExchange()).with(env.getProperty("CollInfoKey"));
     }
 
 }

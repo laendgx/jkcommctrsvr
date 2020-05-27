@@ -1,4 +1,4 @@
-package cms.cmsconst;
+package cms.entity;
 
 import java.io.Serializable;
 
@@ -35,7 +35,7 @@ public class CMSIconParam implements Serializable {
 		return graphXXX;
 	}
 	/**
-	 * @param 可变情报板固定图片X坐标 the graphXXX to set
+	 * @param //可变情报板固定图片X坐标 the graphXXX to set
 	 */
 	public void setGraphXXX(Integer graphXXX) {
 		this.graphXXX = graphXXX;
@@ -47,7 +47,7 @@ public class CMSIconParam implements Serializable {
 		return graphYYY;
 	}
 	/**
-	 * @param 可变情报板固定图片Y坐标 the graphYYY to set
+	 * @param //可变情报板固定图片Y坐标 the graphYYY to set
 	 */
 	public void setGraphYYY(Integer graphYYY) {
 		this.graphYYY = graphYYY;

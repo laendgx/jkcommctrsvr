@@ -1,11 +1,10 @@
 package com.boco.protocolBody;
 
-import cms.cmsconst.ReturnState;
-
 import java.io.Serializable;
+import java.util.List;
 
 /**
- * 通讯协议包父类
+ * rabbitmq通讯协议包父类
  */
 public class Protocolbody  implements Serializable {
 
@@ -21,8 +20,11 @@ public class Protocolbody  implements Serializable {
     /**
      * 消息传输类型
      */
-    private InfoType infoType;
-
+    private String infoType;
+    /**
+     * 消息数据实体
+     */
+    private SubPackage subPackage;
     /**
      * 只在响应类消息中存在，非响应数据时为空，存放处理的结果。
      */
@@ -39,14 +41,6 @@ public class Protocolbody  implements Serializable {
         this.businessno = businessno;
     }
 
-    public InfoType getInfoType() {
-        return infoType;
-    }
-
-    public void setInfoType(InfoType infoType) {
-        this.infoType = infoType;
-    }
-
     public ReturnState getReturnState() {
         return returnState;
     }
@@ -61,5 +55,21 @@ public class Protocolbody  implements Serializable {
 
     public void setIdentity(Identity identity) {
         this.identity = identity;
+    }
+
+    public String getInfoType() {
+        return infoType;
+    }
+
+    public void setInfoType(String infoType) {
+        this.infoType = infoType;
+    }
+
+    public SubPackage getSubPackage() {
+        return subPackage;
+    }
+
+    public void setSubPackage(SubPackage subPackage) {
+        this.subPackage = subPackage;
     }
 }

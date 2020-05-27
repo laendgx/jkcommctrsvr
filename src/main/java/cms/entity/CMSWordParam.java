@@ -1,4 +1,4 @@
-package cms.cmsconst;
+package cms.entity;
 
 import java.io.Serializable;
 

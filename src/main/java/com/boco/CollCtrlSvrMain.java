@@ -1,5 +1,6 @@
 package com.boco;
 
+import com.boco.commconfig.devCommUtils;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.springframework.amqp.support.converter.Jackson2JsonMessageConverter;
 import org.springframework.amqp.support.converter.MessageConverter;
@@ -26,4 +27,5 @@ public class CollCtrlSvrMain {
     public MessageConverter jsonMessageConverter(ObjectMapper objectMapper) {
         return new Jackson2JsonMessageConverter(objectMapper);
     }
+
 }

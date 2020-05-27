@@ -52,6 +52,7 @@ public class ConfigReaderUtils {
 			ReceiveQueueName = prop.getProperty("ReceiveQueueName");
 			exchangeName = prop.getProperty("exchangeName");
 
+			System.out.println("123324324557567");
 		} catch (Exception ex) {
 			System.out.println(ex.getMessage());
 		}
