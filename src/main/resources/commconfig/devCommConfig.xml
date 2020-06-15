@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="GBK"?>
-<devCommCon>
-  <devece devid="21240001" exchangeName="collsvr" queueRoutingKey="DevSvrKey_1" createtime="2020-05-06 15:13:55"/>
-  <devece devid="21240002" exchangeName="collsvr" queueRoutingKey="DevSvrKey_1" createtime="2020-05-07 16:14:56"/>
-  <devece devid="21240003" exchangeName="collsvr" queueRoutingKey="DevSvrKey_1" createtime="2020-05-08 17:15:57"/>
-</devCommCon>

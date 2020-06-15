@@ -1,6 +1,5 @@
 package com.boco;
 
-import com.boco.commconfig.devCommUtils;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.springframework.amqp.support.converter.Jackson2JsonMessageConverter;
 import org.springframework.amqp.support.converter.MessageConverter;
@@ -9,10 +8,14 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
 import org.springframework.scheduling.annotation.EnableScheduling;
 
+import java.io.InputStream;
+import java.util.Properties;
+
 
 @EnableScheduling
 @SpringBootApplication
 public class CollCtrlSvrMain {
+
     /**
      * springboot的main函数
      */

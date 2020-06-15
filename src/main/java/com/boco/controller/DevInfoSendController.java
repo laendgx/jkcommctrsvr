@@ -1,14 +1,16 @@
 package com.boco.controller;
 
-import com.boco.cmsprotocolBody.CmsCmdProtocol;
-import com.boco.cmsprotocolBody.Itemlist;
-import com.boco.cmsprotocolBody.Playlist;
-import com.boco.cmsprotocolBody.Wordlsit;
+import com.boco.comm.CmsCmdProtocol;
+import com.boco.cmsprotocolBody.ItemList;
+import com.boco.cmsprotocolBody.PlayList;
+import com.boco.cmsprotocolBody.WordList;
 import com.boco.comm.CommResult;
-import com.boco.commconfig.DevcommInfo;
-import com.boco.commconfig.DevcommInfoDataServiceImpl;
-import com.boco.commonCenter.TProtocolbodyMap;
+import com.boco.messageEncryption.MD5Util;
+import com.boco.rabbitmqcommconfig.DevRabbitmqCommInfo;
+import com.boco.rabbitmqcommconfig.DevRabbitmqCommInfoDataServiceImpl;
+import com.boco.commdevinfocache.TProtocolbodyMap;
 import com.boco.protocolBody.*;
+import com.boco.redisUntil.JedisPoolUntil;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import net.sf.json.JSONObject;
 import org.slf4j.Logger;
@@ -18,6 +20,7 @@ import org.springframework.amqp.support.converter.Jackson2JsonMessageConverter;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.env.Environment;
 import org.springframework.web.bind.annotation.*;
+import redis.clients.jedis.Jedis;
 
 import javax.annotation.Resource;
 import javax.servlet.http.HttpServletRequest;
@@ -46,30 +49,37 @@ public class DevInfoSendController {
     @Autowired
     RabbitTemplate rabbitTemplate;  //使用RabbitTemplate,这提供了接收/发送等等方法
 
+    @Resource(name="devcommInfoDataServiceImpl")
+    private DevRabbitmqCommInfoDataServiceImpl devcommInfoDataServiceImpl; //设备配置信息
+
     @Autowired
     private Environment env;
+    @GetMapping("/testImpl")
+    public String sendDirectMtestImplessage() {
+        String result="";
+        try {
+            DevRabbitmqCommInfo DevcommInfotemp = devcommInfoDataServiceImpl.getCurDevcommInfo("21240001");
+            String exchangeName = DevcommInfotemp.getExchangeName();
+            String devsvrQueueKey = DevcommInfotemp.getQueueRoutingKey();
+            System.out.println("exchangeName-->" + exchangeName+"         devsvrQueueKey-->" + devsvrQueueKey);
+
+            System.out.println("redisAddr-->" + env.getProperty("redisAddr"));
+            result="exchangeName-->" + exchangeName+"         devsvrQueueKey-->" + devsvrQueueKey+
+                    "        redisAddr-->" + env.getProperty("redisAddr");
+        } catch (Exception ex) {
+            ex.printStackTrace();
+        }
+        return result;
+    }
 
     @GetMapping("/sendDirectMessage")
     public String sendDirectMessage() {
         try {
-//            CmsCmdProtocol CmsProtocolbody=new CmsCmdProtocol();
-//            CmsProtocolbody.setOrgid("1101");
-//            CmsProtocolbody.setDevId("21210001");
-//            CmsProtocolbody.setDevvartypeid("212101");
-//            SubPackage subPackage=getSubPackage();
-//            CmsProtocolbody.setPlaylist(getPlaylist());
-//            JSONObject object1 = JSONObject.fromObject(CmsProtocolbody);
-//            String CmsProtocolbodytemp = object1.toString();
-            DevcommInfoDataServiceImpl DevcommInfoData=new DevcommInfoDataServiceImpl();
-            //List<DevcommInfo> sdfsdf=DevcommInfoData.listCity();
-            DevcommInfo DevcommInfotemp=DevcommInfoData.getCurDevcommInfo("21210001");
-            String exchangeName=DevcommInfotemp.getExchangeName();
-
             String messageId = String.valueOf(UUID.randomUUID());
             String curTime = LocalDateTime.now().format(DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss"));
 
             Protocolbody Protocolbodytemp =new Protocolbody();
-            Protocolbodytemp.setBusinessno("cmsctrl_123");
+            Protocolbodytemp.setBusinessNo(messageId);
             Identity Identitytemp=new Identity();
             Identitytemp.setCreateTime(curTime);
             Protocolbodytemp.setIdentity(Identitytemp);
@@ -78,76 +88,85 @@ public class DevInfoSendController {
 
             JSONObject object = JSONObject.fromObject(Protocolbodytemp);
             String jsonstr = object.toString();
-            rabbitTemplate.setMessageConverter(new Jackson2JsonMessageConverter());
-            rabbitTemplate.setExchange(env.getProperty("exchangeName"));
-            rabbitTemplate.setRoutingKey(env.getProperty("devsvrQueueKey_1"));
-            rabbitTemplate.convertAndSend(jsonstr);
-            System.out.println("sendmessage-->" + jsonstr);
+            String md5str= MD5Util.getInstance().encrypByMd5(jsonstr);
+            String md5strother= MD5Util.getInstance().getMD5String(jsonstr);
+            System.out.println("encrypByMd5-->" + md5str);
+            System.out.println("getMD5String-->" + md5strother);
+
+            Jedis Jediscur=JedisPoolUntil.getInstance().getJedis(env.getProperty("redisAddr"),env.getProperty("redisPort"));
+            Jediscur.set(md5str,jsonstr);
+            Jediscur.set(md5strother,jsonstr);
+            String s = Jediscur.get(md5str);
+            String s1 = Jediscur.get(md5str);
+            System.out.println(s);
+            System.out.println(s1);
+            Jediscur.del(md5str);
+            Jediscur.del(md5strother);
         } catch (Exception ex) {
             ex.printStackTrace();
         }
         return "ok";
     }
 
-    public Playlist getPlaylist() {
-        Playlist playlist=new Playlist();
+    public PlayList getPlaylist() {
+        PlayList playlist=new PlayList();
         playlist.setDpw(128);
         playlist.setDph(64);
         playlist.setDpt(1);
-        List<Itemlist> itemlists =new ArrayList<>();
+        List<ItemList> itemLists =new ArrayList<>();
         //第一屏信息
-        Itemlist itemlist_1 =new Itemlist();
-        itemlist_1.setDelay(3);
-        itemlist_1.setMode(1);
-        itemlist_1.setFc("r");
-        itemlist_1.setFs(32);
-        itemlist_1.setFn("s");
-        itemlist_1.setGraphList(null);
+        ItemList itemList_1 =new ItemList();
+        itemList_1.setDelay(3);
+        itemList_1.setMode(1);
+        itemList_1.setFc("r");
+        itemList_1.setFs(32);
+        itemList_1.setFn("s");
+        itemList_1.setGraphList(null);
         //文字内容
-        List<Wordlsit> wordLists_1= new ArrayList<>();
+        List<WordList> wordLists_1= new ArrayList<>();
         //第一行文字
-        Wordlsit wordlsit_1 =new Wordlsit();
-        wordlsit_1.setWx(0);
-        wordlsit_1.setWy(0);
-        wordlsit_1.setWc("安全驾驶");
-        wordLists_1.add(wordlsit_1);//添加第一行文字
+        WordList wordList_1 =new WordList();
+        wordList_1.setWx(0);
+        wordList_1.setWy(0);
+        wordList_1.setWc("安全驾驶");
+        wordLists_1.add(wordList_1);//添加第一行文字
         //第二行文字
-        Wordlsit wordlsit_2 =new Wordlsit();
-        wordlsit_2.setWx(0);
-        wordlsit_2.setWy(32);
-        wordlsit_2.setWc("平安回家");
-        wordLists_1.add(wordlsit_2);//添加第二行文字
-        itemlist_1.setWordList(wordLists_1);//添加文字内容
+        WordList wordList_2 =new WordList();
+        wordList_2.setWx(0);
+        wordList_2.setWy(32);
+        wordList_2.setWc("平安回家");
+        wordLists_1.add(wordList_2);//添加第二行文字
+        itemList_1.setWordList(wordLists_1);//添加文字内容
         //添加第一屏信息
-        itemlists.add(itemlist_1);
+        itemLists.add(itemList_1);
         //第二屏信息
-        Itemlist itemlist_2 =new Itemlist();
-        itemlist_2.setDelay(3);
-        itemlist_2.setMode(1);
-        itemlist_2.setFc("r");
-        itemlist_2.setFs(32);
-        itemlist_2.setFn("s");
-        itemlist_2.setGraphList(null);
+        ItemList itemList_2 =new ItemList();
+        itemList_2.setDelay(3);
+        itemList_2.setMode(1);
+        itemList_2.setFc("r");
+        itemList_2.setFs(32);
+        itemList_2.setFn("s");
+        itemList_2.setGraphList(null);
 
         //文字内容
-        List<Wordlsit> wordLists_2= new ArrayList<>();
+        List<WordList> wordLists_2= new ArrayList<>();
         //第一行文字
-        Wordlsit wordlsit_3 =new Wordlsit();
-        wordlsit_3.setWx(0);
-        wordlsit_3.setWy(0);
-        wordlsit_3.setWc("路途漫漫");
-        wordLists_2.add(wordlsit_3); //添加第一行文字
+        WordList wordList_3 =new WordList();
+        wordList_3.setWx(0);
+        wordList_3.setWy(0);
+        wordList_3.setWc("路途漫漫");
+        wordLists_2.add(wordList_3); //添加第一行文字
         //第二行文字
-        Wordlsit wordlsit_4 =new Wordlsit();
-        wordlsit_4.setWx(0);
-        wordlsit_4.setWy(32);
-        wordlsit_4.setWc("文明相伴");
-        wordLists_2.add(wordlsit_4);//添加第二行文字
-        itemlist_2.setWordList(wordLists_2);//添加文字内容
+        WordList wordList_4 =new WordList();
+        wordList_4.setWx(0);
+        wordList_4.setWy(32);
+        wordList_4.setWc("文明相伴");
+        wordLists_2.add(wordList_4);//添加第二行文字
+        itemList_2.setWordList(wordLists_2);//添加文字内容
         //添加第二屏信息
-        itemlists.add(itemlist_2);
+        itemLists.add(itemList_2);
 
-        playlist.setItemlist(itemlists);
+        playlist.setItemList(itemLists);
         return playlist;
     }
 
@@ -162,70 +181,70 @@ public class DevInfoSendController {
 
         List<DevVarInfo> DevVarInfolist = new ArrayList<>();
         DevVarInfo devVarInfo=new DevVarInfo();
-        devVarInfo.setDevvartypeid("212101");
-        devVarInfo.setDevvartypedesc("播放信息");
-        Playlist playlist=new Playlist();
-        playlist.setDpw(128);
-        playlist.setDph(64);
-        playlist.setDpt(1);
-        List<Itemlist> itemlists =new ArrayList<>();
+        devVarInfo.setDevVarTypeId("212401");
+        devVarInfo.setDevVarTypeDesc("播放信息");
+        PlayList playList=new PlayList();
+        playList.setDpw(128);
+        playList.setDph(64);
+        playList.setDpt(1);
+        List<ItemList> itemLists =new ArrayList<>();
         //第一屏信息
-        Itemlist itemlist_1 =new Itemlist();
-        itemlist_1.setDelay(3);
-        itemlist_1.setMode(1);
-        itemlist_1.setFc("r");
-        itemlist_1.setFs(32);
-        itemlist_1.setFn("s");
-        itemlist_1.setGraphList(null);
+        ItemList itemList_1 =new ItemList();
+        itemList_1.setDelay(3);
+        itemList_1.setMode(1);
+        itemList_1.setFc("r");
+        itemList_1.setFs(32);
+        itemList_1.setFn("s");
+        itemList_1.setGraphList(null);
         //文字内容
-        List<Wordlsit> wordLists_1= new ArrayList<>();
+        List<WordList> wordLists_1= new ArrayList<>();
         //第一行文字
-        Wordlsit wordlsit_1 =new Wordlsit();
-        wordlsit_1.setWx(0);
-        wordlsit_1.setWy(0);
-        wordlsit_1.setWc("安全驾驶");
-        wordLists_1.add(wordlsit_1);//添加第一行文字
+        WordList wordList_1 =new WordList();
+        wordList_1.setWx(0);
+        wordList_1.setWy(0);
+        wordList_1.setWc("安全驾驶");
+        wordLists_1.add(wordList_1);//添加第一行文字
         //第二行文字
-        Wordlsit wordlsit_2 =new Wordlsit();
-        wordlsit_2.setWx(0);
-        wordlsit_2.setWy(32);
-        wordlsit_2.setWc("平安回家");
-        wordLists_1.add(wordlsit_2);//添加第二行文字
-        itemlist_1.setWordList(wordLists_1);//添加文字内容
+        WordList wordList_2 =new WordList();
+        wordList_2.setWx(0);
+        wordList_2.setWy(32);
+        wordList_2.setWc("平安回家");
+        wordLists_1.add(wordList_2);//添加第二行文字
+        itemList_1.setWordList(wordLists_1);//添加文字内容
         //添加第一屏信息
-        itemlists.add(itemlist_1);
+        itemLists.add(itemList_1);
         //第二屏信息
-        Itemlist itemlist_2 =new Itemlist();
-        itemlist_2.setDelay(3);
-        itemlist_2.setMode(1);
-        itemlist_2.setFc("r");
-        itemlist_2.setFs(32);
-        itemlist_2.setFn("s");
-        itemlist_2.setGraphList(null);
+        ItemList itemList_2 =new ItemList();
+        itemList_2.setDelay(3);
+        itemList_2.setMode(1);
+        itemList_2.setFc("r");
+        itemList_2.setFs(32);
+        itemList_2.setFn("s");
+        itemList_2.setGraphList(null);
 
         //文字内容
-        List<Wordlsit> wordLists_2= new ArrayList<>();
+        List<WordList> wordLists_2= new ArrayList<>();
         //第一行文字
-        Wordlsit wordlsit_3 =new Wordlsit();
-        wordlsit_3.setWx(0);
-        wordlsit_3.setWy(0);
-        wordlsit_3.setWc("路途漫漫");
-        wordLists_2.add(wordlsit_3); //添加第一行文字
+        WordList wordList_3 =new WordList();
+        wordList_3.setWx(0);
+        wordList_3.setWy(0);
+        wordList_3.setWc("路途漫漫");
+        wordLists_2.add(wordList_3); //添加第一行文字
         //第二行文字
-        Wordlsit wordlsit_4 =new Wordlsit();
-        wordlsit_4.setWx(0);
-        wordlsit_4.setWy(32);
-        wordlsit_4.setWc("文明相伴");
-        wordLists_2.add(wordlsit_4);//添加第二行文字
-        itemlist_2.setWordList(wordLists_2);//添加文字内容
+        WordList wordList_4 =new WordList();
+        wordList_4.setWx(0);
+        wordList_4.setWy(32);
+        wordList_4.setWc("文明相伴");
+        wordLists_2.add(wordList_4);//添加第二行文字
+        itemList_2.setWordList(wordLists_2);//添加文字内容
         //添加第二屏信息
-        itemlists.add(itemlist_2);
+        itemLists.add(itemList_2);
 
-        playlist.setItemlist(itemlists);
-        JSONObject object = JSONObject.fromObject(playlist);
+        playList.setItemList(itemLists);
+        JSONObject object = JSONObject.fromObject(playList);
         String cmsplaylist = object.toString();
 
-        devVarInfo.setDevvarvalue(cmsplaylist);
+        devVarInfo.setDevVarValue(cmsplaylist);
         DevVarInfolist.add(devVarInfo);
         subPackage.setDevVarInfoList(DevVarInfolist);
         return subPackage;
@@ -243,7 +262,7 @@ public class DevInfoSendController {
             String curTime = LocalDateTime.now().format(DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss"));
 
             Protocolbody Protocolbodytemp = new Protocolbody();
-            Protocolbodytemp.setBusinessno(BusinessnoId);
+            Protocolbodytemp.setBusinessNo(BusinessnoId);
             Identity Identitytemp = new Identity();
             Identitytemp.setSourceId("jkcommctrsvr");
             Identitytemp.setTargetId("collctrsvr");
@@ -252,20 +271,20 @@ public class DevInfoSendController {
             Protocolbodytemp.setInfoType(InfoType.MSG_CMD_CMS);
 
             SubPackage subPackage = new SubPackage();
-            subPackage.setUseid(CmsProtocolbody.getUseid());
-            subPackage.setOrgId(CmsProtocolbody.getOrgid());
+            subPackage.setUseId(CmsProtocolbody.getUseId());
+            subPackage.setOrgId(CmsProtocolbody.getOrgId());
             subPackage.setDevId(CmsProtocolbody.getDevId());
             subPackage.setCollCtrTime(curTime);
 
             List<DevVarInfo> devVarInfolist = new ArrayList<>();
             DevVarInfo devVarInfo=new DevVarInfo();
-            devVarInfo.setDevvartypeid(CmsProtocolbody.getDevvartypeid());
-            devVarInfo.setDevvartypedesc("播放表信息");
-            Playlist playlist = new Playlist();
-            playlist = CmsProtocolbody.getPlaylist();
-            JSONObject object = JSONObject.fromObject(playlist);
+            devVarInfo.setDevVarTypeId(CmsProtocolbody.getDevVarTypeId());
+            devVarInfo.setDevVarTypeDesc("播放表信息");
+            PlayList playList = new PlayList();
+            playList = CmsProtocolbody.getPlayList();
+            JSONObject object = JSONObject.fromObject(playList);
             String cmsplaylistvalue = object.toString();
-            devVarInfo.setDevvarvalue(cmsplaylistvalue);
+            devVarInfo.setDevVarValue(cmsplaylistvalue);
             devVarInfolist.add(devVarInfo);
             subPackage.setDevVarInfoList(devVarInfolist);
 
@@ -280,8 +299,6 @@ public class DevInfoSendController {
         return Sendjsonstr;
     }
 
-    @Resource(name="devcommInfoDataServiceImpl")
-    private DevcommInfoDataServiceImpl devcommInfoDataServiceImpl; //设备配置信息
 
     //获取情报板基础信息
     @RequestMapping(value="getBasicInfosTest", method=RequestMethod.POST)
@@ -308,21 +325,29 @@ public class DevInfoSendController {
     @RequestMapping(value = "devInfoSend",method = RequestMethod.POST)
     public @ResponseBody
     CommResult<String> devInfoSend(
-            @RequestBody CmsCmdProtocol Protocolbodytemp, HttpSession session, HttpServletRequest request, HttpServletResponse response) throws Exception {
+            @RequestBody List<CmsCmdProtocol> CmsCmdProtocols, HttpSession session, HttpServletRequest request, HttpServletResponse response) throws Exception {
         CommResult<String> result = new CommResult<String>();
         try {
-            String deviceid = Protocolbodytemp.getDevId();
-            String jsonstr =GetSendjsonstr(Protocolbodytemp);
-
-            DevcommInfo DevcommInfotemp=devcommInfoDataServiceImpl.getCurDevcommInfo(deviceid);
-            if(DevcommInfotemp.getDevid().equals(null)){
-                result.setResultCode("102");
-                result.setResultMsg("下发数据异常无此设备编码信息");
+            if(CmsCmdProtocols.size()==0){
+                result.setResultCode("101");
+                result.setResultMsg("下发情报板播放表信息不能为空");
                 return result;
             }
-            String exchangeName=DevcommInfotemp.getExchangeName();
-            String devsvrQueueKey=DevcommInfotemp.getQueueRoutingKey();
-            SendRabbitmqQueue(exchangeName,devsvrQueueKey, jsonstr);
+            for (CmsCmdProtocol cmsCmdProtocol : CmsCmdProtocols) {
+                String deviceid = cmsCmdProtocol.getDevId();
+                String jsonstr =GetSendjsonstr(cmsCmdProtocol);
+
+                DevRabbitmqCommInfo DevcommInfotemp=devcommInfoDataServiceImpl.getCurDevcommInfo(deviceid);
+                if(DevcommInfotemp.getDevid().equals(null)){
+                    result.setResultCode("102");
+                    result.setResultMsg("下发数据异常无此设备编码信息");
+                    return result;
+                }
+                String exchangeName=DevcommInfotemp.getExchangeName();
+                String devsvrQueueKey=DevcommInfotemp.getQueueRoutingKey();
+                SendRabbitmqQueue(exchangeName,devsvrQueueKey, jsonstr);
+            }
+
             result.setResultCode("100");
             result.setResultMsg("下发到消息队列成功");//获取设备rabbitmq通讯信息
 
@@ -353,13 +378,13 @@ public class DevInfoSendController {
             rabbitTemplate.setExchange(Exchange);
             rabbitTemplate.setRoutingKey(RoutingKey);
             rabbitTemplate.convertAndSend(jsonstr);
-            System.out.println("SendRabbitmq: " + "\n" + "Exchange-->" + Exchange +
-                    "RoutingKey-->" + RoutingKey + "\n" + jsonstr);
+//            System.out.println("SendRabbitmq: " + "\n" + "Exchange-->" + Exchange +
+//                    "RoutingKey-->" + RoutingKey + "\n" + jsonstr);
             Protocolbody revprotocolbody = (Protocolbody) JSONToObj(jsonstr, Protocolbody.class);
             TProtocolbodyMap.getInstance().add(revprotocolbody);
         }catch (Exception ex){
             ex.printStackTrace();
-            logger.error("下发数据异常发生异常"+ex.toString());
+            logger.error("SendRabbitmqQueue_Controller下发异常"+ex.toString());
         }
     }
 
