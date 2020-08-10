@@ -1,0 +1,1499 @@
+2020-08-03 09:42:42.240 [pool-3-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1028 下发数据失败！
+2020-08-03 09:42:42.241 [pool-3-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1025 下发数据失败！
+2020-08-03 09:42:42.242 [pool-3-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1024 下发数据失败！
+2020-08-03 09:42:42.243 [pool-3-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1027 下发数据失败！
+2020-08-03 09:42:42.244 [pool-3-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1026 下发数据失败！
+2020-08-03 09:42:42.244 [pool-3-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1021 下发数据失败！
+2020-08-03 09:42:42.245 [pool-3-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1020 下发数据失败！
+2020-08-03 09:42:42.245 [pool-3-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1023 下发数据失败！
+2020-08-03 09:42:42.246 [pool-3-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1022 下发数据失败！
+2020-08-03 09:42:42.247 [pool-3-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-3333 下发数据失败！
+2020-08-03 09:42:42.247 [pool-3-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1030 下发数据失败！
+2020-08-03 09:42:42.270 [pool-3-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1029 下发数据失败！
+2020-08-03 09:42:42.271 [pool-3-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1000 下发数据失败！
+2020-08-03 09:42:42.272 [pool-3-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1014 下发数据失败！
+2020-08-03 09:42:42.272 [pool-3-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-4444 下发数据失败！
+2020-08-03 09:42:42.276 [pool-3-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1013 下发数据失败！
+2020-08-03 09:42:42.277 [pool-3-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1002 下发数据失败！
+2020-08-03 09:42:42.280 [pool-3-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1012 下发数据失败！
+2020-08-03 09:42:42.281 [pool-3-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1001 下发数据失败！
+2020-08-03 09:42:42.282 [pool-3-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1011 下发数据失败！
+2020-08-03 09:42:42.282 [pool-3-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1004 下发数据失败！
+2020-08-03 09:42:42.285 [pool-3-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1010 下发数据失败！
+2020-08-03 09:42:42.287 [pool-3-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1003 下发数据失败！
+2020-08-03 09:42:42.288 [pool-3-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1009 下发数据失败！
+2020-08-03 09:42:42.290 [pool-3-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1008 下发数据失败！
+2020-08-03 09:42:42.298 [pool-3-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1005 下发数据失败！
+2020-08-03 09:42:42.298 [pool-3-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1007 下发数据失败！
+2020-08-03 09:42:42.299 [pool-3-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1006 下发数据失败！
+2020-08-03 09:42:42.310 [pool-3-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1036 下发数据失败！
+2020-08-03 09:42:42.311 [pool-3-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1035 下发数据失败！
+2020-08-03 09:42:42.312 [pool-3-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1032 下发数据失败！
+2020-08-03 09:42:42.312 [pool-3-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1031 下发数据失败！
+2020-08-03 09:42:42.313 [pool-3-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1034 下发数据失败！
+2020-08-03 09:42:42.314 [pool-3-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1033 下发数据失败！
+2020-08-03 09:42:42.315 [pool-3-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1019 下发数据失败！
+2020-08-03 09:42:42.317 [pool-3-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1018 下发数据失败！
+2020-08-03 09:42:42.317 [pool-3-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1017 下发数据失败！
+2020-08-03 09:42:42.318 [pool-3-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1016 下发数据失败！
+2020-08-03 09:42:42.319 [pool-3-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1015 下发数据失败！
+2020-08-03 09:42:43.230 [pool-62-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:42:43.231 [nioEventLoopGroup-3-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-3333 连接服务器失败
+2020-08-03 09:42:43.234 [nioEventLoopGroup-24-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1019 连接服务器失败
+2020-08-03 09:42:43.235 [pool-114-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:42:43.238 [pool-116-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:42:43.238 [nioEventLoopGroup-23-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1018 连接服务器失败
+2020-08-03 09:42:43.244 [nioEventLoopGroup-8-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1003 连接服务器失败
+2020-08-03 09:42:43.244 [nioEventLoopGroup-38-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1033 连接服务器失败
+2020-08-03 09:42:43.244 [pool-112-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:42:43.244 [pool-90-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:42:43.245 [pool-72-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:42:43.245 [nioEventLoopGroup-19-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1014 连接服务器失败
+2020-08-03 09:42:43.246 [nioEventLoopGroup-34-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1029 连接服务器失败
+2020-08-03 09:42:43.247 [nioEventLoopGroup-11-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1006 连接服务器失败
+2020-08-03 09:42:43.246 [pool-68-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:42:43.247 [pool-100-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:42:43.254 [nioEventLoopGroup-16-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1011 连接服务器失败
+2020-08-03 09:42:43.254 [pool-84-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:42:43.255 [pool-48-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:42:43.256 [nioEventLoopGroup-29-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1024 连接服务器失败
+2020-08-03 09:42:43.258 [nioEventLoopGroup-25-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1020 连接服务器失败
+2020-08-03 09:42:43.258 [pool-96-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:42:43.258 [nioEventLoopGroup-10-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1005 连接服务器失败
+2020-08-03 09:42:43.269 [nioEventLoopGroup-26-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1021 连接服务器失败
+2020-08-03 09:42:43.270 [pool-54-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:42:43.272 [nioEventLoopGroup-18-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1013 连接服务器失败
+2020-08-03 09:42:43.273 [pool-76-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:42:43.276 [pool-58-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:42:43.277 [nioEventLoopGroup-28-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1023 连接服务器失败
+2020-08-03 09:42:43.281 [pool-122-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:42:43.281 [pool-106-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:42:43.281 [nioEventLoopGroup-20-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1015 连接服务器失败
+2020-08-03 09:42:43.282 [nioEventLoopGroup-37-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1032 连接服务器失败
+2020-08-03 09:42:43.283 [pool-98-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:42:43.283 [nioEventLoopGroup-12-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1007 连接服务器失败
+2020-08-03 09:42:43.284 [pool-118-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:42:43.258 [pool-56-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:42:43.285 [nioEventLoopGroup-22-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1017 连接服务器失败
+2020-08-03 09:42:43.286 [pool-120-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:42:43.286 [nioEventLoopGroup-21-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1016 连接服务器失败
+2020-08-03 09:42:43.287 [nioEventLoopGroup-41-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1036 连接服务器失败
+2020-08-03 09:42:43.287 [pool-104-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:42:43.288 [nioEventLoopGroup-40-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1035 连接服务器失败
+2020-08-03 09:42:43.288 [pool-102-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:42:43.291 [pool-78-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:42:43.292 [nioEventLoopGroup-17-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1012 连接服务器失败
+2020-08-03 09:42:43.292 [pool-108-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:42:43.293 [pool-70-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:42:43.293 [nioEventLoopGroup-5-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1000 连接服务器失败
+2020-08-03 09:42:43.297 [pool-64-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:42:43.292 [nioEventLoopGroup-7-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1002 连接服务器失败
+2020-08-03 09:42:43.292 [nioEventLoopGroup-4-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-4444 连接服务器失败
+2020-08-03 09:42:43.292 [nioEventLoopGroup-36-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1031 连接服务器失败
+2020-08-03 09:42:43.292 [pool-80-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:42:43.299 [pool-94-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:42:43.300 [nioEventLoopGroup-13-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1008 连接服务器失败
+2020-08-03 09:42:43.302 [nioEventLoopGroup-27-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1022 连接服务器失败
+2020-08-03 09:42:43.303 [nioEventLoopGroup-9-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1004 连接服务器失败
+2020-08-03 09:42:43.304 [pool-86-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:42:43.308 [pool-82-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:42:43.309 [nioEventLoopGroup-15-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1010 连接服务器失败
+2020-08-03 09:42:43.309 [pool-88-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:42:43.292 [pool-74-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:42:43.297 [nioEventLoopGroup-35-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1030 连接服务器失败
+2020-08-03 09:42:43.302 [pool-60-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:42:43.308 [nioEventLoopGroup-6-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1001 连接服务器失败
+2020-08-03 09:42:43.313 [pool-92-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:42:43.313 [nioEventLoopGroup-14-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1009 连接服务器失败
+2020-08-03 09:42:43.316 [nioEventLoopGroup-39-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1034 连接服务器失败
+2020-08-03 09:42:43.316 [pool-110-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:42:56.243 [pool-45-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1028--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:42:56.244 [pool-47-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1025--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:42:56.247 [pool-51-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1027--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:42:56.249 [pool-57-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1020--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:42:56.258 [pool-53-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1026--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:42:56.257 [pool-59-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1023--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:42:56.256 [pool-61-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1022--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:42:56.253 [pool-65-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1030--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:42:56.250 [pool-49-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1024--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:42:56.250 [pool-55-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1021--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:42:56.249 [pool-63-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:3333--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:42:56.272 [pool-67-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:2222--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:42:56.273 [pool-71-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1000--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:42:56.274 [pool-73-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1014--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:42:56.274 [pool-69-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1029--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:42:56.275 [pool-75-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:4444--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:42:56.279 [pool-77-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1013--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:42:56.279 [pool-79-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1002--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:42:56.282 [pool-81-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1012--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:42:56.283 [pool-83-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1001--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:42:56.284 [pool-85-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1011--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:42:56.284 [pool-87-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1004--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:42:56.287 [pool-89-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1010--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:42:56.290 [pool-91-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1003--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:42:56.290 [pool-93-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1009--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:42:56.299 [pool-95-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1008--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:42:56.300 [pool-97-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1005--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:42:56.300 [pool-99-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1007--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:42:56.301 [pool-101-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1006--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:42:56.312 [pool-103-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1036--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:42:56.313 [pool-107-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1032--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:42:56.313 [pool-105-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1035--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:42:56.314 [pool-109-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1031--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:42:56.315 [pool-111-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1034--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:42:56.316 [pool-113-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1033--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:42:56.318 [pool-115-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1019--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:42:56.319 [pool-119-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1017--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:42:56.319 [pool-117-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1018--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:42:56.320 [pool-121-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1016--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:42:56.320 [pool-123-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1015--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:11.324 [pool-45-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1028--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:11.327 [pool-49-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1024--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:11.328 [pool-57-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1020--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:11.328 [pool-65-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1030--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:11.328 [pool-97-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1005--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:11.328 [pool-103-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1036--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:11.329 [pool-123-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1015--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:11.329 [pool-121-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1016--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:11.329 [pool-115-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1019--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:11.330 [pool-113-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1033--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:11.330 [pool-107-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1032--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:11.330 [pool-105-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1035--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:11.331 [pool-99-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1007--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:11.331 [pool-93-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1009--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:11.331 [pool-91-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1003--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:11.332 [pool-85-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1011--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:11.332 [pool-83-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1001--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:11.333 [pool-77-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1013--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:11.333 [pool-75-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:4444--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:11.333 [pool-69-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1029--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:11.333 [pool-61-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1022--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:11.334 [pool-59-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1023--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:11.334 [pool-67-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:2222--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:11.334 [pool-51-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1027--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:11.335 [pool-111-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1034--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:11.336 [pool-119-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1017--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:11.336 [pool-47-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1025--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:11.337 [pool-71-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1000--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:11.337 [pool-79-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1002--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:11.337 [pool-87-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1004--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:11.337 [pool-95-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1008--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:11.338 [pool-101-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1006--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:11.338 [pool-55-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1021--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:11.338 [pool-109-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1031--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:11.338 [pool-63-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:3333--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:11.339 [pool-117-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1018--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:11.339 [pool-73-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1014--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:11.339 [pool-81-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1012--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:11.339 [pool-89-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1010--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:11.340 [pool-53-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1026--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:14.284 [nioEventLoopGroup-3-2] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-3333 连接服务器失败
+2020-08-03 09:43:14.284 [pool-5-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:43:14.292 [nioEventLoopGroup-29-2] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1024 连接服务器失败
+2020-08-03 09:43:14.292 [pool-31-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:43:14.320 [nioEventLoopGroup-24-2] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1019 连接服务器失败
+2020-08-03 09:43:14.320 [pool-26-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:43:14.331 [nioEventLoopGroup-28-2] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1023 连接服务器失败
+2020-08-03 09:43:14.331 [pool-30-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:43:14.341 [nioEventLoopGroup-9-2] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1004 连接服务器失败
+2020-08-03 09:43:14.341 [pool-11-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:43:14.342 [pool-29-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:43:14.342 [nioEventLoopGroup-27-2] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1022 连接服务器失败
+2020-08-03 09:43:14.361 [pool-17-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:43:14.362 [nioEventLoopGroup-15-2] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1010 连接服务器失败
+2020-08-03 09:43:14.362 [nioEventLoopGroup-18-2] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1013 连接服务器失败
+2020-08-03 09:43:14.361 [pool-20-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:43:14.370 [nioEventLoopGroup-41-2] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1036 连接服务器失败
+2020-08-03 09:43:14.370 [pool-43-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:43:14.382 [nioEventLoopGroup-38-2] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1033 连接服务器失败
+2020-08-03 09:43:14.382 [pool-40-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:43:14.394 [nioEventLoopGroup-19-2] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1014 连接服务器失败
+2020-08-03 09:43:14.394 [pool-21-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:43:14.400 [nioEventLoopGroup-17-2] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1012 连接服务器失败
+2020-08-03 09:43:14.400 [pool-19-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:43:14.411 [pool-28-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:43:14.411 [nioEventLoopGroup-26-2] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1021 连接服务器失败
+2020-08-03 09:43:14.411 [nioEventLoopGroup-25-2] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1020 连接服务器失败
+2020-08-03 09:43:14.411 [pool-27-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:43:14.412 [pool-25-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:43:14.412 [nioEventLoopGroup-23-2] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1018 连接服务器失败
+2020-08-03 09:43:14.421 [nioEventLoopGroup-11-2] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1006 连接服务器失败
+2020-08-03 09:43:14.421 [pool-13-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:43:14.422 [nioEventLoopGroup-12-2] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1007 连接服务器失败
+2020-08-03 09:43:14.422 [pool-14-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:43:14.430 [nioEventLoopGroup-21-2] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1016 连接服务器失败
+2020-08-03 09:43:14.430 [pool-23-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:43:14.434 [nioEventLoopGroup-34-2] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1029 连接服务器失败
+2020-08-03 09:43:14.434 [pool-36-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:43:14.442 [nioEventLoopGroup-40-2] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1035 连接服务器失败
+2020-08-03 09:43:14.442 [pool-42-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:43:14.444 [nioEventLoopGroup-8-2] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1003 连接服务器失败
+2020-08-03 09:43:14.445 [nioEventLoopGroup-22-2] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1017 连接服务器失败
+2020-08-03 09:43:14.445 [pool-10-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:43:14.445 [pool-24-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:43:14.451 [pool-7-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:43:14.452 [pool-38-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:43:14.452 [nioEventLoopGroup-36-2] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1031 连接服务器失败
+2020-08-03 09:43:14.452 [nioEventLoopGroup-5-2] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1000 连接服务器失败
+2020-08-03 09:43:14.460 [pool-22-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:43:14.460 [nioEventLoopGroup-20-2] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1015 连接服务器失败
+2020-08-03 09:43:14.461 [nioEventLoopGroup-4-2] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-4444 连接服务器失败
+2020-08-03 09:43:14.461 [pool-6-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:43:14.462 [nioEventLoopGroup-13-2] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1008 连接服务器失败
+2020-08-03 09:43:14.462 [pool-15-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:43:14.464 [nioEventLoopGroup-35-2] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1030 连接服务器失败
+2020-08-03 09:43:14.464 [pool-37-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:43:14.471 [nioEventLoopGroup-7-2] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1002 连接服务器失败
+2020-08-03 09:43:14.471 [pool-9-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:43:14.472 [pool-16-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:43:14.472 [nioEventLoopGroup-14-2] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1009 连接服务器失败
+2020-08-03 09:43:14.474 [nioEventLoopGroup-10-2] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1005 连接服务器失败
+2020-08-03 09:43:14.474 [pool-12-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:43:14.475 [pool-8-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:43:14.475 [nioEventLoopGroup-6-2] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1001 连接服务器失败
+2020-08-03 09:43:14.480 [nioEventLoopGroup-39-2] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1034 连接服务器失败
+2020-08-03 09:43:14.480 [pool-41-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:43:14.481 [pool-39-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:43:14.481 [nioEventLoopGroup-37-2] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1032 连接服务器失败
+2020-08-03 09:43:14.490 [nioEventLoopGroup-16-2] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1011 连接服务器失败
+2020-08-03 09:43:14.490 [pool-18-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:43:26.332 [pool-45-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1028--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:26.336 [pool-49-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1024--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:26.338 [pool-55-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1021--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:26.338 [pool-103-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1036--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:26.338 [pool-101-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1006--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:26.338 [pool-97-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1005--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:26.338 [pool-95-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1008--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:26.338 [pool-89-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1010--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:26.339 [pool-87-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1004--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:26.339 [pool-63-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:3333--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:26.339 [pool-81-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1012--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:26.339 [pool-79-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1002--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:26.339 [pool-73-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1014--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:26.339 [pool-71-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1000--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:26.339 [pool-47-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1025--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:26.339 [pool-57-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1020--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:26.342 [pool-65-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1030--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:26.343 [pool-51-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1027--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:26.344 [pool-109-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1031--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:26.344 [pool-117-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1018--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:26.344 [pool-119-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1017--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:26.344 [pool-111-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1034--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:26.345 [pool-61-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1022--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:26.345 [pool-59-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1023--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:26.347 [pool-53-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1026--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:26.347 [pool-93-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1009--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:26.347 [pool-99-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1007--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:26.347 [pool-91-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1003--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:26.347 [pool-83-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1001--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:26.347 [pool-77-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1013--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:26.348 [pool-69-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1029--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:26.348 [pool-105-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1035--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:26.348 [pool-85-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1011--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:26.348 [pool-75-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:4444--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:26.351 [pool-123-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1015--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:26.351 [pool-67-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:2222--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:26.352 [pool-113-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1033--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:26.352 [pool-107-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1032--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:26.352 [pool-121-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1016--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:26.352 [pool-115-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1019--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:41.348 [pool-51-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1027--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:41.348 [pool-49-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1024--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:41.349 [pool-47-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1025--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:41.350 [pool-57-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1020--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:41.350 [pool-65-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1030--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:41.351 [pool-55-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1021--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:41.351 [pool-63-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:3333--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:41.352 [pool-71-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1000--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:41.352 [pool-79-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1002--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:41.353 [pool-73-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1014--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:41.353 [pool-103-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1036--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:41.354 [pool-53-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1026--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:41.354 [pool-85-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1011--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:41.355 [pool-91-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1003--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:41.355 [pool-93-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1009--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:41.356 [pool-99-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1007--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:41.356 [pool-105-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1035--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:41.356 [pool-107-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1032--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:41.356 [pool-113-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1033--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:41.359 [pool-115-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1019--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:41.359 [pool-121-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1016--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:41.360 [pool-123-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1015--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:41.363 [pool-117-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1018--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:41.363 [pool-119-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1017--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:41.363 [pool-111-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1034--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:41.363 [pool-81-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1012--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:41.367 [pool-77-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1013--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:41.368 [pool-75-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:4444--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:41.368 [pool-69-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1029--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:41.361 [pool-101-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1006--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:41.364 [pool-89-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1010--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:41.362 [pool-109-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1031--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:41.364 [pool-97-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1005--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:41.369 [pool-67-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:2222--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:41.369 [pool-61-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1022--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:41.369 [pool-59-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1023--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:41.360 [pool-87-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1004--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:41.370 [pool-45-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1028--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:41.361 [pool-95-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1008--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:41.370 [pool-83-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1001--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:45.296 [pool-5-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:43:45.296 [nioEventLoopGroup-3-3] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-3333 连接服务器失败
+2020-08-03 09:43:45.297 [nioEventLoopGroup-29-3] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1024 连接服务器失败
+2020-08-03 09:43:45.297 [pool-31-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:43:45.325 [nioEventLoopGroup-24-3] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1019 连接服务器失败
+2020-08-03 09:43:45.326 [pool-26-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:43:45.334 [nioEventLoopGroup-28-3] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1023 连接服务器失败
+2020-08-03 09:43:45.335 [pool-30-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:43:45.345 [nioEventLoopGroup-9-3] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1004 连接服务器失败
+2020-08-03 09:43:45.346 [pool-11-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:43:45.354 [nioEventLoopGroup-27-3] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1022 连接服务器失败
+2020-08-03 09:43:45.354 [pool-29-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:43:45.365 [nioEventLoopGroup-18-3] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1013 连接服务器失败
+2020-08-03 09:43:45.366 [pool-20-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:43:45.377 [nioEventLoopGroup-15-3] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1010 连接服务器失败
+2020-08-03 09:43:45.377 [pool-17-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:43:45.387 [nioEventLoopGroup-41-3] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1036 连接服务器失败
+2020-08-03 09:43:45.387 [pool-43-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:43:45.396 [nioEventLoopGroup-19-3] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1014 连接服务器失败
+2020-08-03 09:43:45.395 [pool-21-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:43:45.397 [pool-40-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:43:45.397 [nioEventLoopGroup-38-3] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1033 连接服务器失败
+2020-08-03 09:43:45.414 [nioEventLoopGroup-17-3] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1012 连接服务器失败
+2020-08-03 09:43:45.414 [pool-19-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:43:45.417 [pool-25-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:43:45.418 [nioEventLoopGroup-23-3] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1018 连接服务器失败
+2020-08-03 09:43:45.419 [nioEventLoopGroup-26-3] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1021 连接服务器失败
+2020-08-03 09:43:45.419 [pool-28-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:43:45.425 [nioEventLoopGroup-25-3] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1020 连接服务器失败
+2020-08-03 09:43:45.425 [pool-27-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:43:45.435 [pool-14-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:43:45.435 [nioEventLoopGroup-12-3] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1007 连接服务器失败
+2020-08-03 09:43:45.436 [nioEventLoopGroup-11-3] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1006 连接服务器失败
+2020-08-03 09:43:45.436 [pool-13-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:43:45.438 [nioEventLoopGroup-21-3] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1016 连接服务器失败
+2020-08-03 09:43:45.438 [pool-23-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:43:45.445 [nioEventLoopGroup-34-3] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1029 连接服务器失败
+2020-08-03 09:43:45.446 [pool-36-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:43:45.455 [pool-10-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:43:45.455 [nioEventLoopGroup-8-3] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1003 连接服务器失败
+2020-08-03 09:43:45.464 [pool-24-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:43:45.464 [nioEventLoopGroup-22-3] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1017 连接服务器失败
+2020-08-03 09:43:45.465 [pool-7-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:43:45.465 [nioEventLoopGroup-5-3] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1000 连接服务器失败
+2020-08-03 09:43:45.465 [nioEventLoopGroup-36-3] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1031 连接服务器失败
+2020-08-03 09:43:45.466 [pool-38-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:43:45.467 [nioEventLoopGroup-40-3] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1035 连接服务器失败
+2020-08-03 09:43:45.467 [pool-42-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:43:45.467 [nioEventLoopGroup-35-3] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1030 连接服务器失败
+2020-08-03 09:43:45.468 [pool-37-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:43:45.474 [nioEventLoopGroup-14-3] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1009 连接服务器失败
+2020-08-03 09:43:45.475 [pool-16-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:43:45.476 [nioEventLoopGroup-20-3] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1015 连接服务器失败
+2020-08-03 09:43:45.476 [pool-22-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:43:45.485 [nioEventLoopGroup-7-3] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1002 连接服务器失败
+2020-08-03 09:43:45.485 [pool-9-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:43:45.487 [nioEventLoopGroup-10-3] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1005 连接服务器失败
+2020-08-03 09:43:45.487 [pool-12-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:43:45.476 [pool-6-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:43:45.476 [nioEventLoopGroup-4-3] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-4444 连接服务器失败
+2020-08-03 09:43:45.489 [pool-15-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:43:45.489 [nioEventLoopGroup-13-3] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1008 连接服务器失败
+2020-08-03 09:43:45.490 [nioEventLoopGroup-6-3] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1001 连接服务器失败
+2020-08-03 09:43:45.490 [pool-8-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:43:45.495 [pool-18-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:43:45.496 [nioEventLoopGroup-16-3] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1011 连接服务器失败
+2020-08-03 09:43:45.496 [pool-41-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:43:45.496 [nioEventLoopGroup-39-3] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1034 连接服务器失败
+2020-08-03 09:43:45.497 [nioEventLoopGroup-37-3] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1032 连接服务器失败
+2020-08-03 09:43:45.498 [pool-39-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:43:56.354 [pool-57-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1020--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:56.354 [pool-45-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1028--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:56.354 [pool-51-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1027--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:56.354 [pool-47-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1025--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:56.355 [pool-49-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1024--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:56.355 [pool-55-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1021--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:56.355 [pool-63-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:3333--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:56.355 [pool-53-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1026--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:56.356 [pool-59-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1023--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:56.356 [pool-61-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1022--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:56.356 [pool-67-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:2222--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:56.356 [pool-75-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:4444--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:56.356 [pool-69-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1029--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:56.356 [pool-83-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1001--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:56.357 [pool-65-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1030--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:56.356 [pool-77-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1013--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:56.357 [pool-71-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1000--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:56.357 [pool-73-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1014--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:56.357 [pool-79-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1002--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:56.357 [pool-81-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1012--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:56.357 [pool-87-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1004--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:56.359 [pool-91-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1003--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:56.357 [pool-89-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1010--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:56.357 [pool-95-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1008--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:56.357 [pool-109-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1031--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:56.357 [pool-97-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1005--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:56.357 [pool-101-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1006--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:56.357 [pool-103-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1036--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:56.357 [pool-85-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1011--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:56.360 [pool-99-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1007--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:56.363 [pool-105-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1035--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:56.364 [pool-113-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1033--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:56.364 [pool-121-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1016--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:56.365 [pool-107-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1032--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:56.360 [pool-93-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1009--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:56.365 [pool-119-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1017--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:56.365 [pool-115-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1019--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:56.365 [pool-123-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1015--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:56.365 [pool-117-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1018--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:43:56.366 [pool-111-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1034--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:11.359 [pool-45-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1028--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:11.360 [pool-47-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1025--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:11.362 [pool-55-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1021--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:11.362 [pool-95-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1008--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:11.362 [pool-87-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1004--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:11.362 [pool-109-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1031--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:11.362 [pool-63-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:3333--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:11.362 [pool-79-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1002--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:11.362 [pool-101-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1006--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:11.362 [pool-71-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1000--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:11.362 [pool-117-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1018--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:11.362 [pool-57-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1020--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:11.362 [pool-103-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1036--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:11.362 [pool-73-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1014--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:11.362 [pool-97-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1005--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:11.362 [pool-49-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1024--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:11.362 [pool-65-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1030--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:11.363 [pool-121-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1016--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:11.363 [pool-107-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1032--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:11.363 [pool-113-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1033--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:11.363 [pool-93-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1009--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:11.363 [pool-105-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1035--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:11.363 [pool-85-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1011--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:11.363 [pool-99-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1007--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:11.363 [pool-77-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1013--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:11.363 [pool-91-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1003--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:11.363 [pool-69-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1029--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:11.363 [pool-83-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1001--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:11.363 [pool-119-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1017--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:11.363 [pool-115-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1019--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:11.363 [pool-75-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:4444--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:11.363 [pool-89-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1010--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:11.363 [pool-123-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1015--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:11.363 [pool-81-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1012--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:11.363 [pool-111-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1034--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:11.368 [pool-53-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1026--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:11.368 [pool-59-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1023--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:11.368 [pool-67-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:2222--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:11.368 [pool-61-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1022--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:11.369 [pool-51-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1027--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:16.306 [pool-31-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:44:16.306 [nioEventLoopGroup-29-4] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1024 连接服务器失败
+2020-08-03 09:44:16.310 [nioEventLoopGroup-3-4] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-3333 连接服务器失败
+2020-08-03 09:44:16.310 [pool-5-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:44:16.340 [nioEventLoopGroup-24-4] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1019 连接服务器失败
+2020-08-03 09:44:16.340 [pool-26-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:44:16.343 [nioEventLoopGroup-9-4] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1004 连接服务器失败
+2020-08-03 09:44:16.343 [pool-11-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:44:16.353 [nioEventLoopGroup-27-4] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1022 连接服务器失败
+2020-08-03 09:44:16.354 [pool-29-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:44:16.355 [pool-30-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:44:16.355 [nioEventLoopGroup-28-4] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1023 连接服务器失败
+2020-08-03 09:44:16.380 [nioEventLoopGroup-18-4] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1013 连接服务器失败
+2020-08-03 09:44:16.380 [pool-20-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:44:16.390 [pool-17-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:44:16.390 [nioEventLoopGroup-15-4] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1010 连接服务器失败
+2020-08-03 09:44:16.400 [nioEventLoopGroup-41-4] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1036 连接服务器失败
+2020-08-03 09:44:16.400 [pool-43-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:44:16.403 [nioEventLoopGroup-38-4] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1033 连接服务器失败
+2020-08-03 09:44:16.403 [pool-40-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:44:16.410 [pool-21-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:44:16.411 [nioEventLoopGroup-19-4] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1014 连接服务器失败
+2020-08-03 09:44:16.423 [nioEventLoopGroup-17-4] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1012 连接服务器失败
+2020-08-03 09:44:16.424 [pool-19-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:44:16.434 [nioEventLoopGroup-23-4] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1018 连接服务器失败
+2020-08-03 09:44:16.435 [pool-25-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:44:16.435 [pool-28-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:44:16.435 [nioEventLoopGroup-26-4] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1021 连接服务器失败
+2020-08-03 09:44:16.435 [pool-27-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:44:16.435 [nioEventLoopGroup-25-4] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1020 连接服务器失败
+2020-08-03 09:44:16.444 [pool-14-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:44:16.444 [nioEventLoopGroup-12-4] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1007 连接服务器失败
+2020-08-03 09:44:16.444 [pool-13-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:44:16.445 [nioEventLoopGroup-11-4] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1006 连接服务器失败
+2020-08-03 09:44:16.450 [nioEventLoopGroup-34-4] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1029 连接服务器失败
+2020-08-03 09:44:16.450 [pool-36-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:44:16.453 [nioEventLoopGroup-21-4] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1016 连接服务器失败
+2020-08-03 09:44:16.453 [pool-23-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:44:16.463 [nioEventLoopGroup-8-4] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1003 连接服务器失败
+2020-08-03 09:44:16.464 [pool-10-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:44:16.475 [nioEventLoopGroup-20-4] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1015 连接服务器失败
+2020-08-03 09:44:16.475 [pool-22-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:44:16.480 [nioEventLoopGroup-22-4] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1017 连接服务器失败
+2020-08-03 09:44:16.480 [pool-24-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:44:16.482 [pool-7-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:44:16.482 [nioEventLoopGroup-5-4] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1000 连接服务器失败
+2020-08-03 09:44:16.483 [nioEventLoopGroup-35-4] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1030 连接服务器失败
+2020-08-03 09:44:16.483 [pool-37-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:44:16.483 [pool-42-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:44:16.484 [nioEventLoopGroup-40-4] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1035 连接服务器失败
+2020-08-03 09:44:16.490 [pool-9-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:44:16.491 [nioEventLoopGroup-7-4] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1002 连接服务器失败
+2020-08-03 09:44:16.492 [nioEventLoopGroup-14-4] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1009 连接服务器失败
+2020-08-03 09:44:16.492 [pool-38-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:44:16.492 [nioEventLoopGroup-36-4] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1031 连接服务器失败
+2020-08-03 09:44:16.492 [pool-16-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:44:16.493 [nioEventLoopGroup-13-4] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1008 连接服务器失败
+2020-08-03 09:44:16.493 [pool-15-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:44:16.495 [nioEventLoopGroup-10-4] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1005 连接服务器失败
+2020-08-03 09:44:16.495 [pool-12-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:44:16.500 [nioEventLoopGroup-16-4] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1011 连接服务器失败
+2020-08-03 09:44:16.500 [pool-18-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:44:16.503 [nioEventLoopGroup-4-4] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-4444 连接服务器失败
+2020-08-03 09:44:16.503 [pool-6-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:44:16.505 [nioEventLoopGroup-6-4] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1001 连接服务器失败
+2020-08-03 09:44:16.505 [pool-8-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:44:16.511 [nioEventLoopGroup-37-4] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1032 连接服务器失败
+2020-08-03 09:44:16.511 [pool-39-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:44:16.513 [nioEventLoopGroup-39-4] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1034 连接服务器失败
+2020-08-03 09:44:16.514 [pool-41-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:44:26.364 [pool-53-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1026--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:26.364 [pool-45-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1028--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:26.371 [pool-47-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1025--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:26.371 [pool-49-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1024--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:26.371 [pool-71-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1000--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:26.371 [pool-79-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1002--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:26.372 [pool-87-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1004--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:26.372 [pool-119-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1017--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:26.372 [pool-95-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1008--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:26.372 [pool-101-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1006--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:26.372 [pool-55-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1021--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:26.372 [pool-111-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1034--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:26.372 [pool-63-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:3333--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:26.372 [pool-103-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1036--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:26.372 [pool-97-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1005--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:26.373 [pool-89-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1010--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:26.373 [pool-81-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1012--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:26.374 [pool-73-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1014--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:26.375 [pool-65-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1030--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:26.375 [pool-57-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1020--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:26.375 [pool-117-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1018--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:26.375 [pool-109-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1031--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:26.375 [pool-59-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1023--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:26.375 [pool-67-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:2222--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:26.375 [pool-75-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:4444--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:26.385 [pool-51-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1027--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:26.385 [pool-83-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1001--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:26.385 [pool-91-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1003--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:26.385 [pool-99-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1007--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:26.385 [pool-105-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1035--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:26.385 [pool-121-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1016--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:26.385 [pool-113-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1033--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:26.385 [pool-123-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1015--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:26.385 [pool-115-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1019--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:26.385 [pool-107-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1032--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:26.386 [pool-93-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1009--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:26.386 [pool-85-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1011--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:26.386 [pool-77-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1013--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:26.386 [pool-69-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1029--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:26.386 [pool-61-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1022--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:41.370 [pool-79-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1002--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:41.370 [pool-71-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1000--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:41.370 [pool-55-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1021--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:41.370 [pool-95-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1008--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:41.370 [pool-109-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1031--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:41.370 [pool-87-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1004--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:41.370 [pool-63-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:3333--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:41.370 [pool-97-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1005--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:41.371 [pool-101-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1006--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:41.372 [pool-119-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1017--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:41.372 [pool-117-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1018--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:41.372 [pool-47-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1025--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:41.372 [pool-49-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1024--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:41.372 [pool-57-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1020--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:41.372 [pool-65-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1030--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:41.372 [pool-73-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1014--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:41.372 [pool-81-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1012--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:41.372 [pool-89-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1010--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:41.372 [pool-103-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1036--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:41.373 [pool-111-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1034--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:41.389 [pool-45-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1028--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:41.391 [pool-123-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1015--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:41.391 [pool-105-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1035--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:41.392 [pool-51-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1027--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:41.392 [pool-53-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1026--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:41.393 [pool-59-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1023--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:41.393 [pool-61-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1022--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:41.393 [pool-67-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:2222--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:41.394 [pool-69-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1029--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:41.394 [pool-75-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:4444--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:41.394 [pool-77-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1013--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:41.394 [pool-83-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1001--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:41.395 [pool-85-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1011--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:41.395 [pool-91-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1003--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:41.395 [pool-93-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1009--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:41.395 [pool-99-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1007--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:41.395 [pool-107-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1032--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:41.395 [pool-113-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1033--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:41.395 [pool-115-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1019--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:41.395 [pool-121-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1016--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:47.326 [nioEventLoopGroup-29-5] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1024 连接服务器失败
+2020-08-03 09:44:47.326 [pool-31-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:44:47.330 [pool-5-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:44:47.330 [nioEventLoopGroup-3-5] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-3333 连接服务器失败
+2020-08-03 09:44:47.346 [nioEventLoopGroup-24-5] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1019 连接服务器失败
+2020-08-03 09:44:47.347 [pool-26-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:44:47.359 [nioEventLoopGroup-9-5] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1004 连接服务器失败
+2020-08-03 09:44:47.360 [pool-11-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:44:47.371 [nioEventLoopGroup-27-5] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1022 连接服务器失败
+2020-08-03 09:44:47.372 [pool-29-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:44:47.381 [nioEventLoopGroup-28-5] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1023 连接服务器失败
+2020-08-03 09:44:47.381 [pool-30-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:44:47.386 [nioEventLoopGroup-18-5] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1013 连接服务器失败
+2020-08-03 09:44:47.387 [pool-20-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:44:47.396 [nioEventLoopGroup-15-5] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1010 连接服务器失败
+2020-08-03 09:44:47.397 [pool-17-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:44:47.409 [nioEventLoopGroup-41-5] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1036 连接服务器失败
+2020-08-03 09:44:47.410 [pool-43-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:44:47.416 [nioEventLoopGroup-19-5] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1014 连接服务器失败
+2020-08-03 09:44:47.416 [pool-21-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:44:47.419 [nioEventLoopGroup-38-5] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1033 连接服务器失败
+2020-08-03 09:44:47.419 [pool-40-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:44:47.429 [nioEventLoopGroup-17-5] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1012 连接服务器失败
+2020-08-03 09:44:47.429 [pool-19-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:44:47.446 [nioEventLoopGroup-25-5] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1020 连接服务器失败
+2020-08-03 09:44:47.446 [pool-27-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:44:47.450 [pool-14-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:44:47.450 [nioEventLoopGroup-12-5] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1007 连接服务器失败
+2020-08-03 09:44:47.460 [nioEventLoopGroup-23-5] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1018 连接服务器失败
+2020-08-03 09:44:47.460 [pool-25-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:44:47.460 [nioEventLoopGroup-26-5] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1021 连接服务器失败
+2020-08-03 09:44:47.460 [pool-28-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:44:47.469 [pool-23-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:44:47.469 [nioEventLoopGroup-21-5] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1016 连接服务器失败
+2020-08-03 09:44:47.471 [pool-36-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:44:47.471 [nioEventLoopGroup-34-5] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1029 连接服务器失败
+2020-08-03 09:44:47.472 [pool-13-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:44:47.472 [nioEventLoopGroup-11-5] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1006 连接服务器失败
+2020-08-03 09:44:47.486 [nioEventLoopGroup-8-5] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1003 连接服务器失败
+2020-08-03 09:44:47.486 [pool-10-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:44:47.489 [nioEventLoopGroup-40-5] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1035 连接服务器失败
+2020-08-03 09:44:47.489 [pool-42-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:44:47.491 [nioEventLoopGroup-20-5] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1015 连接服务器失败
+2020-08-03 09:44:47.491 [pool-22-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:44:47.496 [pool-24-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:44:47.497 [nioEventLoopGroup-22-5] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1017 连接服务器失败
+2020-08-03 09:44:47.497 [pool-7-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:44:47.497 [nioEventLoopGroup-5-5] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1000 连接服务器失败
+2020-08-03 09:44:47.499 [nioEventLoopGroup-35-5] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1030 连接服务器失败
+2020-08-03 09:44:47.499 [pool-37-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:44:47.506 [nioEventLoopGroup-16-5] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1011 连接服务器失败
+2020-08-03 09:44:47.506 [pool-18-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:44:47.509 [pool-9-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:44:47.510 [nioEventLoopGroup-10-5] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1005 连接服务器失败
+2020-08-03 09:44:47.510 [pool-12-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:44:47.510 [nioEventLoopGroup-7-5] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1002 连接服务器失败
+2020-08-03 09:44:47.510 [pool-38-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:44:47.511 [nioEventLoopGroup-36-5] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1031 连接服务器失败
+2020-08-03 09:44:47.517 [pool-6-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:44:47.517 [nioEventLoopGroup-4-5] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-4444 连接服务器失败
+2020-08-03 09:44:47.518 [pool-8-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:44:47.518 [nioEventLoopGroup-6-5] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1001 连接服务器失败
+2020-08-03 09:44:47.522 [nioEventLoopGroup-14-5] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1009 连接服务器失败
+2020-08-03 09:44:47.522 [pool-16-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:44:47.522 [pool-15-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:44:47.523 [nioEventLoopGroup-13-5] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1008 连接服务器失败
+2020-08-03 09:44:47.523 [pool-41-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:44:47.523 [nioEventLoopGroup-39-5] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1034 连接服务器失败
+2020-08-03 09:44:47.530 [nioEventLoopGroup-37-5] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1032 连接服务器失败
+2020-08-03 09:44:47.530 [pool-39-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:44:56.370 [pool-45-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1028--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:56.378 [pool-57-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1020--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:56.378 [pool-73-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1014--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:56.378 [pool-89-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1010--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:56.379 [pool-103-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1036--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:56.379 [pool-49-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1024--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:56.379 [pool-47-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1025--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:56.379 [pool-65-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1030--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:56.379 [pool-55-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1021--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:56.379 [pool-63-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:3333--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:56.380 [pool-81-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1012--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:56.380 [pool-51-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1027--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:56.381 [pool-71-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1000--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:56.381 [pool-53-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1026--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:56.381 [pool-79-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1002--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:56.381 [pool-97-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1005--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:56.381 [pool-95-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1008--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:56.381 [pool-101-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1006--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:56.381 [pool-111-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1034--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:56.381 [pool-87-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1004--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:56.382 [pool-69-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1029--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:56.381 [pool-119-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1017--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:56.381 [pool-109-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1031--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:56.381 [pool-117-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1018--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:56.382 [pool-75-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:4444--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:56.382 [pool-59-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1023--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:56.382 [pool-61-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1022--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:56.382 [pool-77-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1013--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:56.383 [pool-83-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1001--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:56.383 [pool-85-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1011--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:56.383 [pool-91-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1003--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:56.383 [pool-93-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1009--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:56.383 [pool-99-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1007--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:56.383 [pool-105-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1035--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:56.383 [pool-107-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1032--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:56.383 [pool-113-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1033--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:56.384 [pool-115-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1019--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:56.384 [pool-121-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1016--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:56.384 [pool-123-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1015--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:44:56.386 [pool-67-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:2222--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:11.370 [pool-49-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1024--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:11.370 [pool-45-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1028--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:11.370 [pool-47-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1025--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:11.370 [pool-59-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1023--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:11.372 [pool-119-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1017--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:11.372 [pool-111-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1034--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:11.372 [pool-51-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1027--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:11.372 [pool-103-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1036--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:11.372 [pool-97-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1005--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:11.372 [pool-89-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1010--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:11.372 [pool-81-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1012--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:11.372 [pool-73-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1014--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:11.372 [pool-65-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1030--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:11.372 [pool-57-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1020--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:11.372 [pool-117-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1018--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:11.372 [pool-109-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1031--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:11.372 [pool-101-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1006--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:11.372 [pool-95-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1008--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:11.373 [pool-121-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1016--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:11.372 [pool-87-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1004--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:11.372 [pool-123-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1015--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:11.373 [pool-79-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1002--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:11.373 [pool-71-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1000--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:11.373 [pool-115-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1019--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:11.373 [pool-113-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1033--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:11.373 [pool-107-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1032--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:11.373 [pool-105-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1035--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:11.374 [pool-99-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1007--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:11.374 [pool-75-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:4444--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:11.374 [pool-93-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1009--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:11.374 [pool-91-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1003--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:11.374 [pool-85-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1011--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:11.374 [pool-77-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1013--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:11.374 [pool-61-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1022--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:11.375 [pool-53-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1026--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:11.375 [pool-83-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1001--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:11.373 [pool-63-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:3333--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:11.375 [pool-55-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1021--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:11.377 [pool-69-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1029--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:11.377 [pool-67-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:2222--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:18.330 [nioEventLoopGroup-29-6] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1024 连接服务器失败
+2020-08-03 09:45:18.330 [pool-31-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:45:18.337 [nioEventLoopGroup-3-6] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-3333 连接服务器失败
+2020-08-03 09:45:18.337 [pool-5-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:45:18.364 [nioEventLoopGroup-9-6] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1004 连接服务器失败
+2020-08-03 09:45:18.364 [pool-11-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:45:18.369 [nioEventLoopGroup-24-6] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1019 连接服务器失败
+2020-08-03 09:45:18.369 [pool-26-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:45:18.374 [nioEventLoopGroup-27-6] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1022 连接服务器失败
+2020-08-03 09:45:18.374 [pool-29-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:45:18.384 [pool-30-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:45:18.384 [nioEventLoopGroup-28-6] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1023 连接服务器失败
+2020-08-03 09:45:18.389 [nioEventLoopGroup-18-6] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1013 连接服务器失败
+2020-08-03 09:45:18.389 [pool-20-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:45:18.411 [pool-17-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:45:18.411 [nioEventLoopGroup-15-6] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1010 连接服务器失败
+2020-08-03 09:45:18.424 [pool-40-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:45:18.425 [nioEventLoopGroup-38-6] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1033 连接服务器失败
+2020-08-03 09:45:18.430 [nioEventLoopGroup-19-6] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1014 连接服务器失败
+2020-08-03 09:45:18.430 [pool-21-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:45:18.431 [pool-43-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:45:18.431 [nioEventLoopGroup-41-6] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1036 连接服务器失败
+2020-08-03 09:45:18.449 [nioEventLoopGroup-17-6] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1012 连接服务器失败
+2020-08-03 09:45:18.449 [pool-19-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:45:18.454 [nioEventLoopGroup-25-6] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1020 连接服务器失败
+2020-08-03 09:45:18.454 [pool-27-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:45:18.464 [nioEventLoopGroup-23-6] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1018 连接服务器失败
+2020-08-03 09:45:18.464 [pool-25-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:45:18.470 [nioEventLoopGroup-12-6] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1007 连接服务器失败
+2020-08-03 09:45:18.470 [pool-14-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:45:18.474 [nioEventLoopGroup-11-6] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1006 连接服务器失败
+2020-08-03 09:45:18.474 [pool-13-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:45:18.480 [nioEventLoopGroup-26-6] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1021 连接服务器失败
+2020-08-03 09:45:18.480 [pool-28-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:45:18.484 [nioEventLoopGroup-34-6] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1029 连接服务器失败
+2020-08-03 09:45:18.484 [pool-36-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:45:18.490 [nioEventLoopGroup-21-6] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1016 连接服务器失败
+2020-08-03 09:45:18.490 [pool-23-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:45:18.497 [nioEventLoopGroup-8-6] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1003 连接服务器失败
+2020-08-03 09:45:18.497 [pool-10-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:45:18.501 [pool-42-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:45:18.501 [nioEventLoopGroup-40-6] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1035 连接服务器失败
+2020-08-03 09:45:18.508 [pool-7-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:45:18.508 [nioEventLoopGroup-5-6] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1000 连接服务器失败
+2020-08-03 09:45:18.510 [nioEventLoopGroup-35-6] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1030 连接服务器失败
+2020-08-03 09:45:18.511 [pool-37-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:45:18.515 [pool-22-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:45:18.515 [nioEventLoopGroup-20-6] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1015 连接服务器失败
+2020-08-03 09:45:18.515 [pool-18-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:45:18.515 [nioEventLoopGroup-16-6] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1011 连接服务器失败
+2020-08-03 09:45:18.517 [nioEventLoopGroup-22-6] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1017 连接服务器失败
+2020-08-03 09:45:18.517 [pool-24-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:45:18.524 [pool-9-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:45:18.525 [nioEventLoopGroup-7-6] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1002 连接服务器失败
+2020-08-03 09:45:18.525 [nioEventLoopGroup-10-6] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1005 连接服务器失败
+2020-08-03 09:45:18.525 [pool-12-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:45:18.527 [nioEventLoopGroup-36-6] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1031 连接服务器失败
+2020-08-03 09:45:18.527 [pool-38-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:45:18.529 [nioEventLoopGroup-4-6] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-4444 连接服务器失败
+2020-08-03 09:45:18.529 [pool-6-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:45:18.530 [pool-41-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:45:18.530 [nioEventLoopGroup-39-6] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1034 连接服务器失败
+2020-08-03 09:45:18.535 [nioEventLoopGroup-6-6] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1001 连接服务器失败
+2020-08-03 09:45:18.535 [pool-8-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:45:18.537 [pool-15-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:45:18.537 [nioEventLoopGroup-13-6] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1008 连接服务器失败
+2020-08-03 09:45:18.539 [nioEventLoopGroup-14-6] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1009 连接服务器失败
+2020-08-03 09:45:18.540 [pool-16-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:45:18.548 [nioEventLoopGroup-37-6] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1032 连接服务器失败
+2020-08-03 09:45:18.548 [pool-39-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:45:26.372 [pool-45-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1028--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:26.374 [pool-49-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1024--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:26.374 [pool-55-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1021--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:26.374 [pool-63-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:3333--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:26.374 [pool-47-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1025--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:26.375 [pool-51-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1027--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:26.377 [pool-73-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1014--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:26.376 [pool-61-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1022--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:26.377 [pool-65-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1030--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:26.376 [pool-81-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1012--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:26.377 [pool-57-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1020--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:26.377 [pool-119-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1017--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:26.377 [pool-111-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1034--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:26.377 [pool-103-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1036--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:26.377 [pool-59-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1023--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:26.377 [pool-97-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1005--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:26.377 [pool-89-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1010--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:26.377 [pool-117-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1018--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:26.377 [pool-53-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1026--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:26.378 [pool-109-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1031--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:26.378 [pool-101-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1006--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:26.378 [pool-95-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1008--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:26.378 [pool-87-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1004--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:26.378 [pool-79-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1002--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:26.378 [pool-71-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1000--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:26.380 [pool-85-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1011--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:26.380 [pool-93-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1009--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:26.380 [pool-75-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:4444--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:26.380 [pool-105-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1035--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:26.380 [pool-113-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1033--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:26.380 [pool-67-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:2222--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:26.380 [pool-69-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1029--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:26.380 [pool-77-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1013--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:26.380 [pool-83-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1001--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:26.380 [pool-91-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1003--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:26.380 [pool-99-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1007--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:26.380 [pool-107-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1032--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:26.380 [pool-115-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1019--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:26.382 [pool-121-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1016--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:26.382 [pool-123-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1015--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:41.379 [pool-49-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1024--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:41.379 [pool-45-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1028--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:41.384 [pool-107-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1032--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:41.385 [pool-93-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1009--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:41.385 [pool-85-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1011--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:41.385 [pool-77-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1013--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:41.385 [pool-69-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1029--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:41.385 [pool-61-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1022--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:41.385 [pool-53-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1026--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:41.385 [pool-123-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1015--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:41.386 [pool-115-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1019--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:41.386 [pool-51-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1027--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:41.386 [pool-59-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1023--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:41.386 [pool-67-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:2222--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:41.386 [pool-75-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:4444--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:41.386 [pool-83-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1001--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:41.386 [pool-91-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1003--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:41.387 [pool-99-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1007--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:41.387 [pool-105-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1035--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:41.387 [pool-113-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1033--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:41.387 [pool-121-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1016--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:41.390 [pool-47-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1025--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:41.390 [pool-71-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1000--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:41.390 [pool-79-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1002--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:41.390 [pool-87-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1004--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:41.390 [pool-95-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1008--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:41.390 [pool-101-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1006--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:41.390 [pool-109-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1031--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:41.390 [pool-117-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1018--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:41.391 [pool-55-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1021--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:41.391 [pool-63-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:3333--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:41.401 [pool-65-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1030--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:41.401 [pool-57-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1020--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:41.401 [pool-119-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1017--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:41.401 [pool-111-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1034--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:41.401 [pool-103-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1036--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:41.401 [pool-97-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1005--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:41.401 [pool-89-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1010--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:41.401 [pool-81-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1012--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:41.401 [pool-73-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1014--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:49.337 [pool-31-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:45:49.337 [nioEventLoopGroup-29-7] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1024 连接服务器失败
+2020-08-03 09:45:49.343 [nioEventLoopGroup-3-7] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-3333 连接服务器失败
+2020-08-03 09:45:49.343 [pool-5-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:45:49.377 [nioEventLoopGroup-9-7] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1004 连接服务器失败
+2020-08-03 09:45:49.377 [pool-11-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:45:49.382 [nioEventLoopGroup-24-7] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1019 连接服务器失败
+2020-08-03 09:45:49.382 [pool-26-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:45:49.402 [pool-30-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:45:49.403 [nioEventLoopGroup-28-7] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1023 连接服务器失败
+2020-08-03 09:45:49.404 [pool-29-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:45:49.405 [nioEventLoopGroup-27-7] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1022 连接服务器失败
+2020-08-03 09:45:49.407 [nioEventLoopGroup-18-7] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1013 连接服务器失败
+2020-08-03 09:45:49.407 [pool-20-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:45:49.430 [nioEventLoopGroup-15-7] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1010 连接服务器失败
+2020-08-03 09:45:49.430 [pool-17-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:45:49.433 [pool-40-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:45:49.433 [nioEventLoopGroup-38-7] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1033 连接服务器失败
+2020-08-03 09:45:49.440 [nioEventLoopGroup-19-7] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1014 连接服务器失败
+2020-08-03 09:45:49.440 [pool-21-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:45:49.450 [nioEventLoopGroup-41-7] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1036 连接服务器失败
+2020-08-03 09:45:49.450 [pool-43-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:45:49.458 [nioEventLoopGroup-25-7] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1020 连接服务器失败
+2020-08-03 09:45:49.458 [pool-27-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:45:49.472 [nioEventLoopGroup-17-7] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1012 连接服务器失败
+2020-08-03 09:45:49.472 [pool-19-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:45:49.473 [nioEventLoopGroup-23-7] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1018 连接服务器失败
+2020-08-03 09:45:49.473 [pool-25-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:45:49.487 [nioEventLoopGroup-12-7] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1007 连接服务器失败
+2020-08-03 09:45:49.487 [pool-14-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:45:49.490 [nioEventLoopGroup-11-7] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1006 连接服务器失败
+2020-08-03 09:45:49.490 [pool-13-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:45:49.502 [nioEventLoopGroup-34-7] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1029 连接服务器失败
+2020-08-03 09:45:49.502 [pool-28-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:45:49.502 [nioEventLoopGroup-26-7] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1021 连接服务器失败
+2020-08-03 09:45:49.502 [pool-36-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:45:49.510 [nioEventLoopGroup-21-7] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1016 连接服务器失败
+2020-08-03 09:45:49.510 [pool-23-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:45:49.510 [nioEventLoopGroup-8-7] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1003 连接服务器失败
+2020-08-03 09:45:49.511 [pool-10-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:45:49.517 [nioEventLoopGroup-40-7] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1035 连接服务器失败
+2020-08-03 09:45:49.517 [pool-42-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:45:49.521 [pool-22-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:45:49.521 [nioEventLoopGroup-20-7] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1015 连接服务器失败
+2020-08-03 09:45:49.522 [pool-18-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:45:49.522 [nioEventLoopGroup-16-7] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1011 连接服务器失败
+2020-08-03 09:45:49.523 [pool-7-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:45:49.523 [nioEventLoopGroup-5-7] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1000 连接服务器失败
+2020-08-03 09:45:49.524 [nioEventLoopGroup-35-7] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1030 连接服务器失败
+2020-08-03 09:45:49.524 [pool-37-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:45:49.533 [nioEventLoopGroup-10-7] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1005 连接服务器失败
+2020-08-03 09:45:49.534 [pool-24-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:45:49.533 [pool-12-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:45:49.534 [nioEventLoopGroup-22-7] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1017 连接服务器失败
+2020-08-03 09:45:49.537 [nioEventLoopGroup-7-7] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1002 连接服务器失败
+2020-08-03 09:45:49.537 [pool-9-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:45:49.542 [pool-15-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:45:49.542 [nioEventLoopGroup-13-7] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1008 连接服务器失败
+2020-08-03 09:45:49.542 [pool-41-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:45:49.543 [nioEventLoopGroup-39-7] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1034 连接服务器失败
+2020-08-03 09:45:49.547 [pool-38-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:45:49.547 [nioEventLoopGroup-36-7] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1031 连接服务器失败
+2020-08-03 09:45:49.552 [nioEventLoopGroup-4-7] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-4444 连接服务器失败
+2020-08-03 09:45:49.553 [pool-6-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:45:49.553 [nioEventLoopGroup-6-7] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1001 连接服务器失败
+2020-08-03 09:45:49.553 [pool-8-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:45:49.559 [nioEventLoopGroup-14-7] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1009 连接服务器失败
+2020-08-03 09:45:49.560 [pool-16-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:45:49.563 [nioEventLoopGroup-37-7] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1032 连接服务器失败
+2020-08-03 09:45:49.563 [pool-39-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:45:56.384 [pool-45-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1028--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:56.385 [pool-67-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:2222--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:56.385 [pool-59-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1023--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:56.385 [pool-83-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1001--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:56.385 [pool-91-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1003--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:56.385 [pool-99-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1007--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:56.385 [pool-107-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1032--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:56.385 [pool-113-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1033--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:56.385 [pool-75-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:4444--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:56.386 [pool-115-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1019--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:56.386 [pool-121-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1016--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:56.386 [pool-123-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1015--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:56.387 [pool-51-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1027--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:56.387 [pool-69-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1029--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:56.387 [pool-61-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1022--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:56.387 [pool-77-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1013--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:56.387 [pool-93-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1009--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:56.387 [pool-53-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1026--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:56.387 [pool-85-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1011--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:56.388 [pool-105-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1035--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:56.396 [pool-47-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1025--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:56.396 [pool-63-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:3333--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:56.396 [pool-103-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1036--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:56.396 [pool-79-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1002--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:56.396 [pool-101-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1006--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:56.396 [pool-117-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1018--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:56.396 [pool-71-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1000--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:56.396 [pool-49-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1024--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:56.396 [pool-57-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1020--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:56.396 [pool-87-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1004--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:56.396 [pool-95-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1008--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:56.396 [pool-111-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1034--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:56.396 [pool-65-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1030--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:56.397 [pool-81-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1012--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:56.397 [pool-55-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1021--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:56.397 [pool-89-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1010--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:56.397 [pool-119-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1017--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:56.397 [pool-73-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1014--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:56.397 [pool-97-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1005--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:45:56.397 [pool-109-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1031--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:11.389 [pool-45-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1028--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:11.391 [pool-49-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1024--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:11.392 [pool-47-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1025--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:11.393 [pool-51-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1027--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:11.395 [pool-63-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:3333--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:11.395 [pool-55-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1021--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:11.395 [pool-61-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1022--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:11.395 [pool-57-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1020--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:11.395 [pool-65-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1030--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:11.395 [pool-59-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1023--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:11.396 [pool-53-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1026--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:11.406 [pool-73-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1014--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:11.406 [pool-79-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1002--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:11.406 [pool-77-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1013--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:11.406 [pool-87-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1004--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:11.406 [pool-95-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1008--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:11.406 [pool-101-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1006--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:11.406 [pool-111-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1034--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:11.407 [pool-71-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1000--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:11.407 [pool-81-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1012--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:11.407 [pool-89-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1010--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:11.407 [pool-97-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1005--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:11.407 [pool-103-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1036--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:11.407 [pool-69-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1029--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:11.408 [pool-109-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1031--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:11.408 [pool-117-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1018--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:11.408 [pool-119-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1017--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:11.408 [pool-67-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:2222--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:11.408 [pool-123-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1015--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:11.408 [pool-121-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1016--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:11.408 [pool-113-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1033--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:11.409 [pool-107-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1032--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:11.409 [pool-105-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1035--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:11.409 [pool-93-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1009--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:11.409 [pool-91-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1003--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:11.409 [pool-85-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1011--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:11.409 [pool-83-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1001--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:11.409 [pool-115-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1019--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:11.409 [pool-99-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1007--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:11.407 [pool-75-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:4444--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:20.348 [pool-31-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:46:20.349 [nioEventLoopGroup-29-8] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1024 连接服务器失败
+2020-08-03 09:46:20.359 [nioEventLoopGroup-3-8] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-3333 连接服务器失败
+2020-08-03 09:46:20.359 [pool-5-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:46:20.378 [nioEventLoopGroup-9-8] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1004 连接服务器失败
+2020-08-03 09:46:20.378 [pool-11-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:46:20.388 [nioEventLoopGroup-24-8] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1019 连接服务器失败
+2020-08-03 09:46:20.388 [pool-26-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:46:20.407 [nioEventLoopGroup-28-8] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1023 连接服务器失败
+2020-08-03 09:46:20.407 [pool-30-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:46:20.427 [nioEventLoopGroup-27-8] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1022 连接服务器失败
+2020-08-03 09:46:20.427 [pool-29-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:46:20.428 [pool-20-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:46:20.428 [nioEventLoopGroup-18-8] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1013 连接服务器失败
+2020-08-03 09:46:20.439 [nioEventLoopGroup-38-8] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1033 连接服务器失败
+2020-08-03 09:46:20.439 [pool-40-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:46:20.448 [nioEventLoopGroup-15-8] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1010 连接服务器失败
+2020-08-03 09:46:20.448 [pool-17-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:46:20.458 [nioEventLoopGroup-19-8] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1014 连接服务器失败
+2020-08-03 09:46:20.458 [pool-21-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:46:20.459 [nioEventLoopGroup-41-8] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1036 连接服务器失败
+2020-08-03 09:46:20.459 [pool-43-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:46:20.470 [nioEventLoopGroup-25-8] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1020 连接服务器失败
+2020-08-03 09:46:20.470 [pool-27-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:46:20.477 [nioEventLoopGroup-17-8] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1012 连接服务器失败
+2020-08-03 09:46:20.477 [pool-19-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:46:20.480 [pool-25-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:46:20.480 [nioEventLoopGroup-23-8] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1018 连接服务器失败
+2020-08-03 09:46:20.498 [nioEventLoopGroup-12-8] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1007 连接服务器失败
+2020-08-03 09:46:20.498 [pool-14-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:46:20.508 [pool-36-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:46:20.509 [nioEventLoopGroup-34-8] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1029 连接服务器失败
+2020-08-03 09:46:20.539 [pool-24-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:46:20.539 [nioEventLoopGroup-22-8] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1017 连接服务器失败
+2020-08-03 09:46:20.577 [nioEventLoopGroup-11-8] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1006 连接服务器失败
+2020-08-03 09:46:20.577 [pool-13-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:46:20.577 [pool-28-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:46:20.577 [pool-22-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:46:20.577 [nioEventLoopGroup-26-8] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1021 连接服务器失败
+2020-08-03 09:46:20.577 [nioEventLoopGroup-20-8] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1015 连接服务器失败
+2020-08-03 09:46:20.577 [pool-7-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:46:20.577 [nioEventLoopGroup-8-8] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1003 连接服务器失败
+2020-08-03 09:46:20.577 [pool-18-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:46:20.577 [nioEventLoopGroup-16-8] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1011 连接服务器失败
+2020-08-03 09:46:20.577 [pool-15-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:46:20.577 [nioEventLoopGroup-5-8] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1000 连接服务器失败
+2020-08-03 09:46:20.578 [pool-41-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:46:20.578 [nioEventLoopGroup-39-8] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1034 连接服务器失败
+2020-08-03 09:46:20.578 [pool-6-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:46:20.578 [nioEventLoopGroup-4-8] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-4444 连接服务器失败
+2020-08-03 09:46:20.580 [pool-38-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:46:20.580 [nioEventLoopGroup-36-8] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1031 连接服务器失败
+2020-08-03 09:46:20.577 [pool-10-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:46:20.578 [nioEventLoopGroup-13-8] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1008 连接服务器失败
+2020-08-03 09:46:20.581 [pool-23-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:46:20.581 [nioEventLoopGroup-21-8] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1016 连接服务器失败
+2020-08-03 09:46:20.581 [pool-37-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:46:20.582 [nioEventLoopGroup-35-8] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1030 连接服务器失败
+2020-08-03 09:46:20.582 [pool-42-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:46:20.582 [nioEventLoopGroup-40-8] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1035 连接服务器失败
+2020-08-03 09:46:20.582 [nioEventLoopGroup-10-8] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1005 连接服务器失败
+2020-08-03 09:46:20.582 [pool-12-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:46:20.583 [nioEventLoopGroup-7-8] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1002 连接服务器失败
+2020-08-03 09:46:20.583 [pool-8-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:46:20.583 [nioEventLoopGroup-6-8] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1001 连接服务器失败
+2020-08-03 09:46:20.584 [nioEventLoopGroup-14-8] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1009 连接服务器失败
+2020-08-03 09:46:20.584 [pool-16-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:46:20.584 [nioEventLoopGroup-37-8] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1032 连接服务器失败
+2020-08-03 09:46:20.584 [pool-39-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:46:20.583 [pool-9-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:46:26.410 [pool-71-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1000--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:26.410 [pool-75-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:4444--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:26.410 [pool-55-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1021--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:26.410 [pool-47-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1025--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:26.410 [pool-63-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:3333--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:26.410 [pool-107-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1032--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:26.410 [pool-85-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1011--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:26.410 [pool-69-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1029--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:26.410 [pool-115-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1019--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:26.410 [pool-77-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1013--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:26.410 [pool-53-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1026--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:26.410 [pool-93-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1009--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:26.410 [pool-61-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1022--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:26.411 [pool-97-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1005--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:26.411 [pool-103-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1036--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:26.411 [pool-111-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1034--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:26.411 [pool-119-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1017--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:26.411 [pool-49-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1024--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:26.411 [pool-121-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1016--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:26.411 [pool-113-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1033--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:26.411 [pool-105-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1035--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:26.411 [pool-99-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1007--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:26.411 [pool-91-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1003--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:26.411 [pool-57-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1020--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:26.411 [pool-83-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1001--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:26.412 [pool-67-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:2222--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:26.412 [pool-89-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1010--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:26.412 [pool-87-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1004--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:26.412 [pool-81-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1012--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:26.412 [pool-79-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1002--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:26.412 [pool-73-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1014--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:26.412 [pool-59-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1023--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:26.412 [pool-65-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1030--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:26.411 [pool-117-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1018--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:26.411 [pool-101-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1006--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:26.411 [pool-109-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1031--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:26.412 [pool-45-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1028--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:26.412 [pool-123-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1015--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:26.414 [pool-95-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1008--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:26.416 [pool-51-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1027--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:41.419 [pool-47-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1025--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:41.419 [pool-49-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1024--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:41.419 [pool-45-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1028--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:41.423 [pool-117-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1018--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:41.423 [pool-57-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1020--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:41.423 [pool-73-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1014--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:41.423 [pool-109-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1031--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:41.423 [pool-101-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1006--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:41.423 [pool-81-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1012--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:41.423 [pool-95-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1008--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:41.423 [pool-89-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1010--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:41.423 [pool-87-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1004--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:41.423 [pool-79-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1002--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:41.423 [pool-97-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1005--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:41.423 [pool-71-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1000--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:41.423 [pool-63-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:3333--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:41.423 [pool-115-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1019--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:41.423 [pool-107-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1032--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:41.423 [pool-93-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1009--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:41.423 [pool-103-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1036--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:41.423 [pool-69-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1029--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:41.423 [pool-111-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1034--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:41.423 [pool-59-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1023--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:41.424 [pool-65-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1030--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:41.423 [pool-119-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1017--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:41.423 [pool-55-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1021--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:41.424 [pool-123-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1015--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:41.424 [pool-77-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1013--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:41.424 [pool-75-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:4444--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:41.424 [pool-61-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1022--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:41.424 [pool-53-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1026--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:41.424 [pool-51-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1027--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:41.424 [pool-83-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1001--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:41.424 [pool-105-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1035--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:41.424 [pool-113-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1033--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:41.424 [pool-121-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1016--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:41.424 [pool-67-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:2222--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:41.424 [pool-85-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1011--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:41.424 [pool-99-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1007--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:41.424 [pool-91-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1003--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:51.370 [nioEventLoopGroup-29-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1024 连接服务器失败
+2020-08-03 09:46:51.370 [pool-31-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:46:51.373 [pool-5-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:46:51.373 [nioEventLoopGroup-3-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-3333 连接服务器失败
+2020-08-03 09:46:51.390 [nioEventLoopGroup-9-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1004 连接服务器失败
+2020-08-03 09:46:51.390 [pool-11-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:46:51.393 [nioEventLoopGroup-24-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1019 连接服务器失败
+2020-08-03 09:46:51.393 [pool-26-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:46:51.410 [nioEventLoopGroup-28-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1023 连接服务器失败
+2020-08-03 09:46:51.410 [pool-30-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:46:51.430 [nioEventLoopGroup-27-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1022 连接服务器失败
+2020-08-03 09:46:51.430 [pool-29-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:46:51.440 [nioEventLoopGroup-18-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1013 连接服务器失败
+2020-08-03 09:46:51.440 [pool-20-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:46:51.450 [nioEventLoopGroup-38-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1033 连接服务器失败
+2020-08-03 09:46:51.450 [pool-40-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:46:51.453 [nioEventLoopGroup-15-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1010 连接服务器失败
+2020-08-03 09:46:51.453 [pool-17-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:46:51.470 [nioEventLoopGroup-19-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1014 连接服务器失败
+2020-08-03 09:46:51.470 [pool-21-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:46:51.480 [pool-43-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:46:51.480 [nioEventLoopGroup-41-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1036 连接服务器失败
+2020-08-03 09:46:51.490 [nioEventLoopGroup-25-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1020 连接服务器失败
+2020-08-03 09:46:51.490 [pool-27-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:46:51.492 [nioEventLoopGroup-17-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1012 连接服务器失败
+2020-08-03 09:46:51.492 [pool-19-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:46:51.500 [nioEventLoopGroup-23-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1018 连接服务器失败
+2020-08-03 09:46:51.500 [pool-25-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:46:51.503 [pool-36-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:46:51.503 [nioEventLoopGroup-34-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1029 连接服务器失败
+2020-08-03 09:46:51.510 [nioEventLoopGroup-12-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1007 连接服务器失败
+2020-08-03 09:46:51.510 [pool-14-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:46:51.543 [nioEventLoopGroup-22-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1017 连接服务器失败
+2020-08-03 09:46:51.543 [pool-24-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:46:51.580 [pool-18-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:46:51.580 [nioEventLoopGroup-16-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1011 连接服务器失败
+2020-08-03 09:46:51.600 [nioEventLoopGroup-14-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1009 连接服务器失败
+2020-08-03 09:46:51.601 [pool-16-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:46:51.601 [nioEventLoopGroup-4-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-4444 连接服务器失败
+2020-08-03 09:46:51.601 [nioEventLoopGroup-13-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1008 连接服务器失败
+2020-08-03 09:46:51.601 [pool-6-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:46:51.601 [pool-15-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:46:51.602 [nioEventLoopGroup-10-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1005 连接服务器失败
+2020-08-03 09:46:51.602 [pool-12-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:46:51.611 [pool-22-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:46:51.611 [nioEventLoopGroup-20-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1015 连接服务器失败
+2020-08-03 09:46:51.620 [nioEventLoopGroup-5-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1000 连接服务器失败
+2020-08-03 09:46:51.620 [pool-7-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:46:51.623 [nioEventLoopGroup-35-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1030 连接服务器失败
+2020-08-03 09:46:51.623 [pool-37-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:46:51.623 [pool-13-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:46:51.623 [nioEventLoopGroup-11-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1006 连接服务器失败
+2020-08-03 09:46:51.624 [nioEventLoopGroup-36-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1031 连接服务器失败
+2020-08-03 09:46:51.624 [nioEventLoopGroup-8-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1003 连接服务器失败
+2020-08-03 09:46:51.624 [pool-38-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:46:51.624 [pool-10-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:46:51.632 [nioEventLoopGroup-37-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1032 连接服务器失败
+2020-08-03 09:46:51.633 [nioEventLoopGroup-26-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1021 连接服务器失败
+2020-08-03 09:46:51.633 [pool-28-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:46:51.633 [pool-39-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:46:51.640 [nioEventLoopGroup-21-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1016 连接服务器失败
+2020-08-03 09:46:51.640 [pool-23-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:46:51.642 [pool-42-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:46:51.642 [nioEventLoopGroup-40-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1035 连接服务器失败
+2020-08-03 09:46:51.643 [nioEventLoopGroup-6-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1001 连接服务器失败
+2020-08-03 09:46:51.643 [pool-8-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:46:51.652 [pool-9-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:46:51.652 [nioEventLoopGroup-7-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1002 连接服务器失败
+2020-08-03 09:46:51.653 [pool-41-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:46:51.653 [nioEventLoopGroup-39-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1034 连接服务器失败
+2020-08-03 09:46:56.427 [pool-45-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1028--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:56.428 [pool-51-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1027--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:56.429 [pool-65-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1030--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:56.429 [pool-61-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1022--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:56.429 [pool-59-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1023--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:56.429 [pool-63-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:3333--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:56.429 [pool-55-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1021--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:56.429 [pool-49-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1024--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:56.429 [pool-47-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1025--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:56.429 [pool-57-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1020--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:56.429 [pool-53-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1026--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:56.430 [pool-105-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1035--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:56.430 [pool-99-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1007--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:56.430 [pool-107-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1032--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:56.430 [pool-115-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1019--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:56.430 [pool-121-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1016--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:56.430 [pool-123-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1015--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:56.430 [pool-67-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:2222--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:56.430 [pool-75-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:4444--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:56.431 [pool-83-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1001--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:56.431 [pool-85-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1011--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:56.431 [pool-91-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1003--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:56.431 [pool-93-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1009--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:56.431 [pool-113-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1033--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:56.431 [pool-69-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1029--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:56.431 [pool-77-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1013--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:56.432 [pool-109-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1031--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:56.433 [pool-71-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1000--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:56.433 [pool-73-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1014--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:56.433 [pool-79-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1002--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:56.433 [pool-81-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1012--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:56.433 [pool-89-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1010--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:56.433 [pool-87-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1004--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:56.433 [pool-95-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1008--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:56.433 [pool-97-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1005--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:56.433 [pool-101-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1006--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:56.433 [pool-103-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1036--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:56.434 [pool-111-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1034--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:56.434 [pool-117-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1018--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:46:56.434 [pool-119-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1017--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:11.433 [pool-45-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1028--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:11.434 [pool-51-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1027--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:11.436 [pool-93-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1009--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:11.436 [pool-91-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1003--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:11.436 [pool-85-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1011--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:11.436 [pool-77-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1013--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:11.436 [pool-75-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:4444--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:11.436 [pool-69-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1029--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:11.437 [pool-67-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:2222--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:11.437 [pool-61-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1022--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:11.437 [pool-53-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1026--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:11.437 [pool-59-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1023--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:11.437 [pool-123-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1015--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:11.438 [pool-47-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1025--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:11.438 [pool-121-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1016--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:11.438 [pool-83-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1001--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:11.438 [pool-115-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1019--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:11.438 [pool-107-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1032--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:11.438 [pool-105-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1035--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:11.438 [pool-99-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1007--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:11.438 [pool-113-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1033--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:11.443 [pool-49-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1024--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:11.444 [pool-79-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1002--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:11.444 [pool-71-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1000--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:11.444 [pool-57-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1020--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:11.444 [pool-95-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1008--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:11.444 [pool-65-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1030--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:11.444 [pool-89-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1010--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:11.444 [pool-103-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1036--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:11.445 [pool-111-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1034--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:11.445 [pool-119-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1017--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:11.444 [pool-81-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1012--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:11.446 [pool-117-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1018--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:11.446 [pool-109-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1031--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:11.446 [pool-101-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1006--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:11.446 [pool-97-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1005--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:11.446 [pool-73-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1014--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:11.446 [pool-87-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1004--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:11.446 [pool-63-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:3333--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:11.446 [pool-55-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1021--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:22.376 [nioEventLoopGroup-29-2] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1024 连接服务器失败
+2020-08-03 09:47:22.377 [pool-31-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:47:22.388 [nioEventLoopGroup-3-2] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-3333 连接服务器失败
+2020-08-03 09:47:22.389 [pool-5-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:47:22.406 [nioEventLoopGroup-9-2] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1004 连接服务器失败
+2020-08-03 09:47:22.406 [pool-11-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:47:22.418 [nioEventLoopGroup-28-2] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1023 连接服务器失败
+2020-08-03 09:47:22.419 [pool-30-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:47:22.428 [nioEventLoopGroup-24-2] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1019 连接服务器失败
+2020-08-03 09:47:22.429 [pool-26-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:47:22.446 [nioEventLoopGroup-18-2] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1013 连接服务器失败
+2020-08-03 09:47:22.447 [pool-20-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:47:22.448 [nioEventLoopGroup-27-2] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1022 连接服务器失败
+2020-08-03 09:47:22.448 [pool-29-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:47:22.456 [nioEventLoopGroup-38-2] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1033 连接服务器失败
+2020-08-03 09:47:22.457 [pool-40-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:47:22.467 [pool-17-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:47:22.467 [nioEventLoopGroup-15-2] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1010 连接服务器失败
+2020-08-03 09:47:22.488 [nioEventLoopGroup-19-2] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1014 连接服务器失败
+2020-08-03 09:47:22.488 [pool-21-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:47:22.497 [nioEventLoopGroup-25-2] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1020 连接服务器失败
+2020-08-03 09:47:22.498 [pool-27-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:47:22.499 [pool-19-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:47:22.499 [nioEventLoopGroup-17-2] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1012 连接服务器失败
+2020-08-03 09:47:22.500 [pool-43-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:47:22.500 [nioEventLoopGroup-41-2] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1036 连接服务器失败
+2020-08-03 09:47:22.506 [nioEventLoopGroup-34-2] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1029 连接服务器失败
+2020-08-03 09:47:22.506 [pool-36-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:47:22.509 [pool-25-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:47:22.509 [nioEventLoopGroup-23-2] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1018 连接服务器失败
+2020-08-03 09:47:22.528 [nioEventLoopGroup-12-2] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1007 连接服务器失败
+2020-08-03 09:47:22.529 [pool-14-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:47:22.547 [nioEventLoopGroup-22-2] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1017 连接服务器失败
+2020-08-03 09:47:22.548 [pool-24-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:47:22.597 [nioEventLoopGroup-16-2] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1011 连接服务器失败
+2020-08-03 09:47:22.597 [pool-18-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:47:22.616 [nioEventLoopGroup-10-2] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1005 连接服务器失败
+2020-08-03 09:47:22.616 [pool-12-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:47:22.618 [nioEventLoopGroup-14-2] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1009 连接服务器失败
+2020-08-03 09:47:22.618 [pool-16-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:47:22.618 [pool-6-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:47:22.619 [nioEventLoopGroup-4-2] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-4444 连接服务器失败
+2020-08-03 09:47:22.627 [pool-7-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:47:22.627 [nioEventLoopGroup-5-2] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1000 连接服务器失败
+2020-08-03 09:47:22.627 [nioEventLoopGroup-20-2] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1015 连接服务器失败
+2020-08-03 09:47:22.627 [pool-13-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:47:22.627 [nioEventLoopGroup-11-2] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1006 连接服务器失败
+2020-08-03 09:47:22.627 [pool-22-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:47:22.628 [nioEventLoopGroup-13-2] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1008 连接服务器失败
+2020-08-03 09:47:22.628 [pool-15-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:47:22.636 [nioEventLoopGroup-35-2] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1030 连接服务器失败
+2020-08-03 09:47:22.636 [pool-37-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:47:22.637 [pool-38-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:47:22.637 [nioEventLoopGroup-36-2] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1031 连接服务器失败
+2020-08-03 09:47:22.638 [nioEventLoopGroup-8-2] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1003 连接服务器失败
+2020-08-03 09:47:22.638 [pool-10-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:47:22.646 [pool-42-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:47:22.646 [nioEventLoopGroup-40-2] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1035 连接服务器失败
+2020-08-03 09:47:22.647 [pool-39-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:47:22.647 [nioEventLoopGroup-37-2] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1032 连接服务器失败
+2020-08-03 09:47:22.647 [pool-23-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:47:22.647 [nioEventLoopGroup-21-2] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1016 连接服务器失败
+2020-08-03 09:47:22.647 [pool-28-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:47:22.648 [nioEventLoopGroup-26-2] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1021 连接服务器失败
+2020-08-03 09:47:22.656 [nioEventLoopGroup-39-2] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1034 连接服务器失败
+2020-08-03 09:47:22.656 [pool-41-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:47:22.657 [nioEventLoopGroup-6-2] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1001 连接服务器失败
+2020-08-03 09:47:22.658 [pool-8-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:47:22.667 [nioEventLoopGroup-7-2] ERROR com.boco.njjx.tcpcomm.TTCPComm - Host-127.0.0.1, Port-1002 连接服务器失败
+2020-08-03 09:47:22.667 [pool-9-thread-1] ERROR com.boco.njjx.tcpcomm.TTCPComm - 连接已经断开，进入重连操作
+2020-08-03 09:47:26.439 [pool-81-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1012--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:26.439 [pool-45-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1028--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:26.440 [pool-89-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1010--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:26.440 [pool-51-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1027--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:26.441 [pool-53-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1026--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:26.441 [pool-69-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1029--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:26.441 [pool-61-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1022--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:26.442 [pool-77-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1013--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:26.442 [pool-93-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1009--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:26.442 [pool-105-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1035--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:26.442 [pool-83-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1001--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:26.442 [pool-113-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1033--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:26.442 [pool-85-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1011--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:26.442 [pool-115-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1019--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:26.443 [pool-119-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1017--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:26.443 [pool-121-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1016--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:26.443 [pool-111-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1034--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:26.443 [pool-103-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1036--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:26.443 [pool-97-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1005--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:26.443 [pool-109-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1031--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:26.443 [pool-101-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1006--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:26.443 [pool-95-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1008--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:26.444 [pool-59-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1023--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:26.444 [pool-67-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:2222--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:26.444 [pool-75-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:4444--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:26.444 [pool-87-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1004--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:26.444 [pool-73-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1014--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:26.444 [pool-65-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1030--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:26.444 [pool-63-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:3333--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:26.444 [pool-57-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1020--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:26.445 [pool-99-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1007--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:26.444 [pool-55-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1021--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:26.444 [pool-49-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1024--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:26.444 [pool-47-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1025--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:26.444 [pool-117-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1018--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:26.445 [pool-79-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1002--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:26.445 [pool-71-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1000--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:26.445 [pool-107-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1032--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:26.445 [pool-91-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1003--发送报文超时: Request [addr=1, frameType=1, data=]
+2020-08-03 09:47:26.445 [pool-123-thread-1] ERROR com.boco.njjx.driver.TDriver - 127.0.0.1:1015--发送报文超时: Request [addr=1, frameType=1, data=]

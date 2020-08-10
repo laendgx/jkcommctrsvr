@@ -94,14 +94,14 @@ public class TDevVarInfoCacheMap {
                     this.update(colldevVarInfoList.get(k));
                     break;
                 case 2://变量信息存在，值有变化
-                    System.out.println("变量信息存在，值有变化"+colldevVarInfoList.get(k).getDevId()+" VarValue:"+colldevVarInfoList.get(k).getDevVarLastValue());
+                    //System.out.println("变量信息存在，值有变化"+colldevVarInfoList.get(k).getDevId()+" VarValue:"+colldevVarInfoList.get(k).getDevVarLastValue());
                     changeDevVarInfoList.add(colldevVarInfoList.get(k));
                     this.update(colldevVarInfoList.get(k));
                     break;
                 default://变量信值不存在
-                    System.out.println("变量信值不存在，getOrgId"+colldevVarInfoList.get(k).getOrgId()
-                            +"   getDevId:"+colldevVarInfoList.get(k).getDevId()
-                            +"   getDevVarTypeId:"+colldevVarInfoList.get(k).getDevVarTypeId());
+//                    System.out.println("变量信值不存在，getOrgId"+colldevVarInfoList.get(k).getOrgId()
+//                            +"   getDevId:"+colldevVarInfoList.get(k).getDevId()
+//                            +"   getDevVarTypeId:"+colldevVarInfoList.get(k).getDevVarTypeId());
                     changeDevVarInfoList.add(colldevVarInfoList.get(k));
                     this.add(colldevVarInfoList.get(k));
             }

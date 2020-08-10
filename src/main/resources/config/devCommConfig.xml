@@ -1,43 +1,43 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <devCommCon>
-    <devece devid="21240001" orgid="20300" exchangeName="collsvr" queueRoutingKey="DevSvrKey_1" createtime="2020-05-06 15:13:55"/>
-    <devece devid="21240002" orgid="20300" exchangeName="collsvr" queueRoutingKey="DevSvrKey_1" createtime="2020-05-07 16:14:56"/>
-    <devece devid="21240003" orgid="20300" exchangeName="collsvr" queueRoutingKey="DevSvrKey_1" createtime="2020-05-08 17:15:57"/>
-    <devece devid="21240004" orgid="20300" exchangeName="collsvr" queueRoutingKey="DevSvrKey_1" createtime="2020-05-09 15:13:55"/>
-    <devece devid="21240005" orgid="20300" exchangeName="collsvr" queueRoutingKey="DevSvrKey_1" createtime="2020-05-07 16:14:56"/>
-    <devece devid="21240006" orgid="20300" exchangeName="collsvr" queueRoutingKey="DevSvrKey_1" createtime="2020-05-08 17:15:57"/>
-    <devece devid="21240007" orgid="20300" exchangeName="collsvr" queueRoutingKey="DevSvrKey_1" createtime="2020-05-09 15:13:55"/>
-    <devece devid="21240008" orgid="20300" exchangeName="collsvr" queueRoutingKey="DevSvrKey_1" createtime="2020-05-07 16:14:56"/>
-    <devece devid="21240009" orgid="20300" exchangeName="collsvr" queueRoutingKey="DevSvrKey_1" createtime="2020-05-08 17:15:57"/>
-    <devece devid="21250001" orgid="20300" exchangeName="collsvr" queueRoutingKey="DevSvrKey_1" createtime="2020-05-08 17:15:57"/>
-    <devece devid="21250002" orgid="20300" exchangeName="collsvr" queueRoutingKey="DevSvrKey_1" createtime="2020-05-06 15:13:55"/>
-    <devece devid="21250003" orgid="20300" exchangeName="collsvr" queueRoutingKey="DevSvrKey_1" createtime="2020-05-07 16:14:56"/>
-    <devece devid="21250004" orgid="20300" exchangeName="collsvr" queueRoutingKey="DevSvrKey_1" createtime="2020-05-08 17:15:57"/>
-    <devece devid="21250005" orgid="20300" exchangeName="collsvr" queueRoutingKey="DevSvrKey_1" createtime="2020-05-09 15:13:55"/>
-    <devece devid="21250006" orgid="20300" exchangeName="collsvr" queueRoutingKey="DevSvrKey_1" createtime="2020-05-07 16:14:56"/>
-    <devece devid="21250007" orgid="20300" exchangeName="collsvr" queueRoutingKey="DevSvrKey_1" createtime="2020-05-08 17:15:57"/>
-    <devece devid="21250008" orgid="20300" exchangeName="collsvr" queueRoutingKey="DevSvrKey_1" createtime="2020-05-09 15:13:55"/>
-    <devece devid="21250009" orgid="20300" exchangeName="collsvr" queueRoutingKey="DevSvrKey_1" createtime="2020-05-07 16:14:56"/>
-    <devece devid="21250010" orgid="20300" exchangeName="collsvr" queueRoutingKey="DevSvrKey_1" createtime="2020-05-08 17:15:57"/>
-    <devece devid="21250011" orgid="20300" exchangeName="collsvr" queueRoutingKey="DevSvrKey_1" createtime="2020-05-08 17:15:57"/>
-    <devece devid="21250012" orgid="20300" exchangeName="collsvr" queueRoutingKey="DevSvrKey_1" createtime="2020-05-06 15:13:55"/>
-    <devece devid="21250013" orgid="20300" exchangeName="collsvr" queueRoutingKey="DevSvrKey_1" createtime="2020-05-07 16:14:56"/>
-    <devece devid="21250014" orgid="20300" exchangeName="collsvr" queueRoutingKey="DevSvrKey_1" createtime="2020-05-08 17:15:57"/>
-    <devece devid="22210001" orgid="20300" exchangeName="collsvr" queueRoutingKey="DevSvrKey_1" createtime="2020-05-08 17:15:57"/>
-    <devece devid="22210002" orgid="20300" exchangeName="collsvr" queueRoutingKey="DevSvrKey_1" createtime="2020-05-06 15:13:55"/>
-    <devece devid="22210003" orgid="20300" exchangeName="collsvr" queueRoutingKey="DevSvrKey_1" createtime="2020-05-07 16:14:56"/>
-    <devece devid="22210004" orgid="20300" exchangeName="collsvr" queueRoutingKey="DevSvrKey_1" createtime="2020-05-08 17:15:57"/>
-    <devece devid="22210005" orgid="20300" exchangeName="collsvr" queueRoutingKey="DevSvrKey_1" createtime="2020-05-09 15:13:55"/>
-    <devece devid="22210006" orgid="20300" exchangeName="collsvr" queueRoutingKey="DevSvrKey_1" createtime="2020-05-07 16:14:56"/>
-    <devece devid="22210007" orgid="20300" exchangeName="collsvr" queueRoutingKey="DevSvrKey_1" createtime="2020-05-08 17:15:57"/>
-    <devece devid="22210008" orgid="20300" exchangeName="collsvr" queueRoutingKey="DevSvrKey_1" createtime="2020-05-09 15:13:55"/>
-    <devece devid="22210009" orgid="20300" exchangeName="collsvr" queueRoutingKey="DevSvrKey_1" createtime="2020-05-07 16:14:56"/>
-    <devece devid="22210010" orgid="20300" exchangeName="collsvr" queueRoutingKey="DevSvrKey_1" createtime="2020-05-08 17:15:57"/>
-    <devece devid="22210011" orgid="20300" exchangeName="collsvr" queueRoutingKey="DevSvrKey_1" createtime="2020-05-08 17:15:57"/>
-    <devece devid="22210012" orgid="20300" exchangeName="collsvr" queueRoutingKey="DevSvrKey_1" createtime="2020-05-06 15:13:55"/>
-    <devece devid="22210013" orgid="20300" exchangeName="collsvr" queueRoutingKey="DevSvrKey_1" createtime="2020-05-07 16:14:56"/>
-    <devece devid="22210014" orgid="20300" exchangeName="collsvr" queueRoutingKey="DevSvrKey_1" createtime="2020-05-08 17:15:57"/>
-    <devece devid="22210015" orgid="20300" exchangeName="collsvr" queueRoutingKey="DevSvrKey_1" createtime="2020-05-06 15:13:55"/>
-    <devece devid="22210016" orgid="20300" exchangeName="collsvr" queueRoutingKey="DevSvrKey_1" createtime="2020-05-07 16:14:56"/>
-    <devece devid="22210017" orgid="20300" exchangeName="collsvr" queueRoutingKey="DevSvrKey_1" createtime="2020-05-08 17:15:57"/>
+    <devece devid="21240001" orgid="20300" exchangeName="JkCollsvr"  queueName="DevSvr_Gzfh"  queueRoutingKey="DevSvr_GzfhKey" createtime="2020-05-06 15:13:55"/>
+    <devece devid="21240002" orgid="20300" exchangeName="JkCollsvr"  queueName="DevSvr_Gzfh"  queueRoutingKey="DevSvr_GzfhKey" createtime="2020-05-07 16:14:56"/>
+    <devece devid="21240003" orgid="20300" exchangeName="JkCollsvr"  queueName="DevSvr_Gzfh"  queueRoutingKey="DevSvr_GzfhKey" createtime="2020-05-08 17:15:57"/>
+    <devece devid="21240004" orgid="20300" exchangeName="JkCollsvr"  queueName="DevSvr_Gzfh"  queueRoutingKey="DevSvr_GzfhKey" createtime="2020-05-09 15:13:55"/>
+    <devece devid="21240005" orgid="20300" exchangeName="JkCollsvr"  queueName="DevSvr_Gzfh"  queueRoutingKey="DevSvr_GzfhKey" createtime="2020-05-07 16:14:56"/>
+    <devece devid="21240006" orgid="20300" exchangeName="JkCollsvr"  queueName="DevSvr_Gzfh"  queueRoutingKey="DevSvr_GzfhKey" createtime="2020-05-08 17:15:57"/>
+    <devece devid="21240007" orgid="20300" exchangeName="JkCollsvr"  queueName="DevSvr_Gzfh"  queueRoutingKey="DevSvr_GzfhKey" createtime="2020-05-09 15:13:55"/>
+    <devece devid="21240008" orgid="20300" exchangeName="JkCollsvr"  queueName="DevSvr_Njjx"  queueRoutingKey="DevSvr_NjjxKey" createtime="2020-05-07 16:14:56"/>
+    <devece devid="21240009" orgid="20300" exchangeName="JkCollsvr"  queueName="DevSvr_Gzfh"  queueRoutingKey="DevSvr_GzfhKey" createtime="2020-05-08 17:15:57"/>
+    <devece devid="21250001" orgid="20300" exchangeName="JkCollsvr"  queueName="DevSvr_Njjx"  queueRoutingKey="DevSvr_NjjxKey" createtime="2020-05-08 17:15:57"/>
+    <devece devid="21250002" orgid="20300" exchangeName="JkCollsvr"  queueName="DevSvr_Njjx"  queueRoutingKey="DevSvr_NjjxKey" createtime="2020-05-06 15:13:55"/>
+    <devece devid="21250003" orgid="20300" exchangeName="JkCollsvr"  queueName="DevSvr_Njjx"  queueRoutingKey="DevSvr_NjjxKey" createtime="2020-05-07 16:14:56"/>
+    <devece devid="21250004" orgid="20300" exchangeName="JkCollsvr"  queueName="DevSvr_Njjx"  queueRoutingKey="DevSvr_NjjxKey" createtime="2020-05-08 17:15:57"/>
+    <devece devid="21250005" orgid="20300" exchangeName="JkCollsvr"  queueName="DevSvr_Njjx"  queueRoutingKey="DevSvr_NjjxKey" createtime="2020-05-09 15:13:55"/>
+    <devece devid="21250006" orgid="20300" exchangeName="JkCollsvr"  queueName="DevSvr_Njjx"  queueRoutingKey="DevSvr_NjjxKey" createtime="2020-05-07 16:14:56"/>
+    <devece devid="21250007" orgid="20300" exchangeName="JkCollsvr"  queueName="DevSvr_Njjx"  queueRoutingKey="DevSvr_NjjxKey" createtime="2020-05-08 17:15:57"/>
+    <devece devid="21250008" orgid="20300" exchangeName="JkCollsvr"  queueName="DevSvr_Njjx"  queueRoutingKey="DevSvr_NjjxKey" createtime="2020-05-09 15:13:55"/>
+    <devece devid="21250009" orgid="20300" exchangeName="JkCollsvr"  queueName="DevSvr_Njjx"  queueRoutingKey="DevSvr_NjjxKey" createtime="2020-05-07 16:14:56"/>
+    <devece devid="21250010" orgid="20300" exchangeName="JkCollsvr"  queueName="DevSvr_Njjx"  queueRoutingKey="DevSvr_NjjxKey" createtime="2020-05-08 17:15:57"/>
+    <devece devid="21250011" orgid="20300" exchangeName="JkCollsvr"  queueName="DevSvr_Njjx"  queueRoutingKey="DevSvr_NjjxKey" createtime="2020-05-08 17:15:57"/>
+    <devece devid="21250012" orgid="20300" exchangeName="JkCollsvr"  queueName="DevSvr_Njjx"  queueRoutingKey="DevSvr_NjjxKey" createtime="2020-05-06 15:13:55"/>
+    <devece devid="21250013" orgid="20300" exchangeName="JkCollsvr"  queueName="DevSvr_Njjx"  queueRoutingKey="DevSvr_NjjxKey" createtime="2020-05-07 16:14:56"/>
+    <devece devid="21250014" orgid="20300" exchangeName="JkCollsvr"  queueName="DevSvr_Njjx"  queueRoutingKey="DevSvr_NjjxKey" createtime="2020-05-08 17:15:57"/>
+    <devece devid="22210001" orgid="20300" exchangeName="JkCollsvr"  queueName="DevSvr_Tzdm"  queueRoutingKey="DevSvr_TzdmKey" createtime="2020-05-08 17:15:57"/>
+    <devece devid="22210002" orgid="20300" exchangeName="JkCollsvr"  queueName="DevSvr_Tzdm"  queueRoutingKey="DevSvr_TzdmKey" createtime="2020-05-06 15:13:55"/>
+    <devece devid="22210003" orgid="20300" exchangeName="JkCollsvr"  queueName="DevSvr_Njjx"  queueRoutingKey="DevSvr_NjjxKey" createtime="2020-05-07 16:14:56"/>
+    <devece devid="22210004" orgid="20300" exchangeName="JkCollsvr"  queueName="DevSvr_Tzdm"  queueRoutingKey="DevSvr_TzdmKey" createtime="2020-05-08 17:15:57"/>
+    <devece devid="22210005" orgid="20300" exchangeName="JkCollsvr"  queueName="DevSvr_Tzdm"  queueRoutingKey="DevSvr_TzdmKey" createtime="2020-05-09 15:13:55"/>
+    <devece devid="22210006" orgid="20300" exchangeName="JkCollsvr"  queueName="DevSvr_Tzdm"  queueRoutingKey="DevSvr_TzdmKey" createtime="2020-05-07 16:14:56"/>
+    <devece devid="22210007" orgid="20300" exchangeName="JkCollsvr"  queueName="DevSvr_Njjx"  queueRoutingKey="DevSvr_NjjxKey" createtime="2020-05-08 17:15:57"/>
+    <devece devid="22210008" orgid="20300" exchangeName="JkCollsvr"  queueName="DevSvr_Njjx"  queueRoutingKey="DevSvr_NjjxKey" createtime="2020-05-09 15:13:55"/>
+    <devece devid="22210009" orgid="20300" exchangeName="JkCollsvr"  queueName="DevSvr_Njjx"  queueRoutingKey="DevSvr_NjjxKey" createtime="2020-05-07 16:14:56"/>
+    <devece devid="22210010" orgid="20300" exchangeName="JkCollsvr"  queueName="DevSvr_Shss"  queueRoutingKey="DevSvr_ShssKey" createtime="2020-05-08 17:15:57"/>
+    <devece devid="22210011" orgid="20300" exchangeName="JkCollsvr"  queueName="DevSvr_Njjx"  queueRoutingKey="DevSvr_NjjxKey" createtime="2020-05-08 17:15:57"/>
+    <devece devid="22210012" orgid="20300" exchangeName="JkCollsvr"  queueName="DevSvr_Njjx"  queueRoutingKey="DevSvr_NjjxKey" createtime="2020-05-06 15:13:55"/>
+    <devece devid="22210013" orgid="20300" exchangeName="JkCollsvr"  queueName="DevSvr_Gzfh"  queueRoutingKey="DevSvr_GzfhKey" createtime="2020-05-07 16:14:56"/>
+    <devece devid="22210014" orgid="20300" exchangeName="JkCollsvr"  queueName="DevSvr_Gzfh"  queueRoutingKey="DevSvr_GzfhKey" createtime="2020-05-08 17:15:57"/>
+    <devece devid="22210015" orgid="20300" exchangeName="JkCollsvr"  queueName="DevSvr_Gzfh"  queueRoutingKey="DevSvr_GzfhKey" createtime="2020-05-06 15:13:55"/>
+    <devece devid="22210016" orgid="20300" exchangeName="JkCollsvr"  queueName="DevSvr_Gzfh"  queueRoutingKey="DevSvr_GzfhKey" createtime="2020-05-07 16:14:56"/>
+    <devece devid="22210017" orgid="20300" exchangeName="JkCollsvr"  queueName="DevSvr_Gzfh"  queueRoutingKey="DevSvr_GzfhKey" createtime="2020-05-08 17:15:57"/>
 </devCommCon>

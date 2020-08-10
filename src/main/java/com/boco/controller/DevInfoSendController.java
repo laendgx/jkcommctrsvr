@@ -5,6 +5,10 @@ import com.boco.cmsprotocolBody.ItemList;
 import com.boco.cmsprotocolBody.PlayList;
 import com.boco.cmsprotocolBody.WordList;
 import com.boco.comm.CommResult;
+import com.boco.commdevinfocache.DevVarInfoCache;
+import com.boco.commdevinfocache.TDevVarInfoCacheMap;
+import com.boco.commwebsocket.WebSocketCommPackage;
+import com.boco.commwebsocket.WebSocketServer;
 import com.boco.messageEncryption.MD5Util;
 import com.boco.rabbitmqcommconfig.DevRabbitmqCommInfo;
 import com.boco.rabbitmqcommconfig.DevRabbitmqCommInfoDataServiceImpl;
@@ -12,6 +16,7 @@ import com.boco.commdevinfocache.TProtocolbodyMap;
 import com.boco.protocolBody.*;
 import com.boco.redisUntil.JedisPoolUntil;
 import com.fasterxml.jackson.databind.ObjectMapper;
+import net.sf.json.JSONArray;
 import net.sf.json.JSONObject;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -26,11 +31,10 @@ import javax.annotation.Resource;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
+import java.io.IOException;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.UUID;
+import java.util.*;
 
 /**
  * 设备数据下发
@@ -319,9 +323,79 @@ public class DevInfoSendController {
     }
 
     /**
+     *获取设备变量信息
+     * @param //webSocketClientsid webSocket客户端唯一标识
+     */
+    @CrossOrigin
+    @RequestMapping(value = "getDevVarInfo",method = RequestMethod.POST)
+    public @ResponseBody
+    CommResult<String> getDevVarInfo(
+            @RequestBody String webSocketClientsid, HttpSession session, HttpServletRequest request, HttpServletResponse response) throws Exception {
+        CommResult<String> result = new CommResult<String>();
+        try {
+            //List<DevVarInfoCache> AlldevVarInfo = new ArrayList<>();
+            List<DevVarInfoCache> devVarInfos = new ArrayList<>();
+            int DevVarCount=0;
+            int DevVarCountnum=0;
+            for (Map.Entry<String, DevVarInfoCache> entry : TDevVarInfoCacheMap.getInstance().gDevVarInfoCacheMap.entrySet()) {
+                DevVarCount+=1;
+                DevVarCountnum=DevVarCountnum+1;
+                DevVarInfoCache devVarInfo = entry.getValue();
+
+                if(devVarInfo.getDevVarLastValue().equals("1")) {
+                    devVarInfos.add(devVarInfo);
+                    //AlldevVarInfo.add(devVarInfo);
+                    WebSocketCommPackage webSocketCommPackage = new WebSocketCommPackage();
+                    webSocketCommPackage.setWebInfoType(ReturnCode.StatusDataReturn);
+                    webSocketCommPackage.setDevVarInfoList(devVarInfos);
+                    ReturnState returnState = new ReturnState();
+                    returnState.setReturnCode(ReturnCode.ReturnCode_success);
+                    returnState.setReturnMessage("设备状态信息");
+                    webSocketCommPackage.setReturnState(returnState);
+
+                    //System.out.println(sd);
+                    if (DevVarCount >= 20) {
+                        JSONObject objecttemp = JSONObject.fromObject(webSocketCommPackage);
+                        String DataProtocoltemp = objecttemp.toString();
+                        this.SendWebSocketClient(DataProtocoltemp, webSocketClientsid);
+                        devVarInfos.clear();
+                        DevVarCount = 0;
+                    }
+                }
+            }
+            System.out.println("变量总数为"+DevVarCountnum);
+            if(DevVarCount<20 && DevVarCount>0) {
+                //System.out.println("变量数据为"+DevVarCount);
+                WebSocketCommPackage webSocketCommPackageother = new WebSocketCommPackage();
+                webSocketCommPackageother.setWebInfoType(ReturnCode.StatusDataReturn);
+                webSocketCommPackageother.setDevVarInfoList(devVarInfos);
+                ReturnState returnState = new ReturnState();
+                returnState.setReturnCode(ReturnCode.ReturnCode_success);
+                returnState.setReturnMessage("设备状态信息");
+                webSocketCommPackageother.setReturnState(returnState);
+                JSONObject objecttemp = JSONObject.fromObject(webSocketCommPackageother);
+                String DataProtocoltemp = objecttemp.toString();
+                this.SendWebSocketClient(DataProtocoltemp, webSocketClientsid);
+                devVarInfos.clear();
+            }
+//            JSONArray objecttemp = JSONArray.fromObject(AlldevVarInfo);
+//            String AllDevData = objecttemp.toString();
+            result.setResultCode("100");
+            result.setResultData("变量总数为"+DevVarCountnum);//(AllDevData);
+            result.setResultMsg("WebSocket已转发");//获取设备rabbitmq通讯信息
+        } catch (Exception ex) {
+            ex.printStackTrace();
+            logger.error("getDevVarInfo异常-->" + ex.toString());
+        }
+        return result;
+    }
+
+
+    /**
      *下发情报板播放表信息
      * @param //CmsCmdProtocol 情报板协议包
      */
+    @CrossOrigin
     @RequestMapping(value = "devInfoSend",method = RequestMethod.POST)
     public @ResponseBody
     CommResult<String> devInfoSend(
@@ -366,8 +440,7 @@ public class DevInfoSendController {
      * @param RoutingKey
      * @param jsonstr
      */
-    public void  SendRabbitmqQueue(String Exchange,String RoutingKey,String jsonstr)
-    {
+    public void  SendRabbitmqQueue(String Exchange,String RoutingKey,String jsonstr){
         try {
             if (jsonstr == null || jsonstr.equals("")) {
                 System.out.println("SendRabbitmq数据发送不能为空， " + "\n" + "Exchange-->" + Exchange +
@@ -418,4 +491,29 @@ public class DevInfoSendController {
     }
 
 
+    /**
+     * 发送websocket客户端
+     * @param databody
+     * @param Clientsid 客户端编码，websocket客户端连接是提供唯一编码，为空时发送所有客户端
+     */
+    public void SendWebSocketClient(String databody,String Clientsid) {
+        try {
+            if (databody.equals("") || databody == null) {
+                return;
+            }
+            logger.info("SendWebSocketClient发送-->"+databody);
+            Integer WebSocketClientCount = WebSocketServer.getOnlineCount(); //客户端在线数
+            if (WebSocketClientCount > 0) {
+                WebSocketServer.sendInfo(databody, Clientsid);
+            }
+
+        }catch (IOException e) {
+            logger.error("SendWebSocketClient异常" + e.toString());
+        }
+    }
+
+    // List<String>排序
+    private void sortUsingJava8(List<String> names){
+        Collections.sort(names, (s1, s2) -> s1.compareTo(s2));
+    }
 }

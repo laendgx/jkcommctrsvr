@@ -26,7 +26,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 @Component
-@RabbitListener(queues = "${collInfoQueueName}")
+@RabbitListener(queues = "${jkcollInfoQueueName}")
 public class CommonCollInfoQueueListener {
     private static final Logger logger = LoggerFactory.getLogger(CommonCollInfoQueueListener.class);
     @Autowired
@@ -49,11 +49,11 @@ public class CommonCollInfoQueueListener {
             switch (InfoTypeRev) {
                 case InfoType.MSG_CMD_CMS:  //采集服务的情报板控制命令反馈处理
                     //if(WebSocketServer.getOnlineCount()>0) {
-                        logger.info("接收情报板反馈设备id-->" + revprotocolbody.getSubPackage().getDevId());
                         databody = getwebCmsProtocol(revprotocolbody);
                         SendMessagePressQueue(revprotocolbody);
                         DelProtocolbodyMap(revprotocolbody.getBusinessNo());
                         if (databody != "") {
+                            logger.info("接收情报板下发命令反馈-->" + databody);
                             SendWebSocketClient(databody, null);
                         } else {
                             logger.info("接收队列collInfo消息未在系统发送列表中-->" + revdatabody);
@@ -215,7 +215,7 @@ public class CommonCollInfoQueueListener {
                 JSONObject objecttemp = JSONObject.fromObject(getprotocolbody);
                 DataProtocoltemp = objecttemp.toString();
 
-                SendRabbitmqQueue(env.getProperty("exchangeName"), env.getProperty("dataProcessQueueKey"), DataProtocoltemp);
+                SendRabbitmqQueue(env.getProperty("jkexchangeName"), env.getProperty("dataProcessQueueKey"), DataProtocoltemp);
             }
 
         } catch (Exception ex) {

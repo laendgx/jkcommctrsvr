@@ -21,7 +21,9 @@ public class DevRabbitmqCommInfo {
     private String devid;
     @XmlAttribute(name = "exchangeName") //设备隶属rabbitmq的路由名称
     private String exchangeName;
-    @XmlAttribute(name = "queueRoutingKey") //设备隶属rabbitmq的队列路由键值key
+    @XmlAttribute(name = "queueName") //设备采集服务接收队列名称
+    private String queueName;
+    @XmlAttribute(name = "queueRoutingKey") //设备采集服务接收队列路由key
     private String queueRoutingKey;
     @XmlAttribute(name = "createtime") //创建时间
     private String createtime;

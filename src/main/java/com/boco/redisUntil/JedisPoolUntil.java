@@ -89,7 +89,7 @@ public final class JedisPoolUntil {
      */
     public void returnResource(final Jedis jedis) {
         if (jedis != null) {
-            jedisPool.returnResource(jedis);
+            //jedisPool.returnResource(jedis);
         }
     }
 

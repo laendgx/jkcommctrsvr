@@ -26,24 +26,24 @@ public class DevRabbitmqCommInfoDataServiceImpl implements DevRabbitmqCommInfoDa
 
             File file = new File("config/devCommConfig.xml"); // 这里表示从jar同级目录加载
             if (!file.exists()) { // 如果同级目录没有，则去config下面找
-                logger.info("getDevcommInfoList读取路径----------------->!file.exists()");
+                //logger.info("getDevcommInfoList读取路径----------------->!file.exists()");
                 file = new File("config/devCommConfig.xml");
             }
 
             Resource resource = new FileSystemResource(file);
 
             if (!resource.exists()) { //config目录下还是找不到，那就直接用classpath下的
-                logger.info("getDevcommInfoList读取路径----------------->从jar包中获取");
+                //logger.info("getDevcommInfoList读取路径----------------->从jar包中获取");
                 resource = new ClassPathResource("./config/devCommConfig.xml");
             }
 
 //        Resource resource = new ClassPathResource("config/devCommConfig.xml");
 //        //利用输入流获取XML文件内容
-        BufferedReader br = new BufferedReader(new InputStreamReader(resource.getInputStream(), "utf-8"));
+        BufferedReader br = new BufferedReader(new InputStreamReader(resource.getInputStream(), "UTF-8"));
 
         String line = "";
         while ((line = br.readLine()) != null) {
-            logger.info("line----------------->" + line.toString());
+            //logger.info("line----------------->" + line.toString());
             buffer.append(line);
         }
         br.close();
@@ -76,7 +76,7 @@ public class DevRabbitmqCommInfoDataServiceImpl implements DevRabbitmqCommInfoDa
         //Resource resource = new ClassPathResource("config/devCommConfig.xml");
 
         //利用输入流获取XML文件内容
-        BufferedReader br = new BufferedReader(new InputStreamReader(resource.getInputStream(), "utf-8"));
+        BufferedReader br = new BufferedReader(new InputStreamReader(resource.getInputStream(), "UTF-8"));
 
         StringBuffer buffer = new StringBuffer();
         String line = "";
